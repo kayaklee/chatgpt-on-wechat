@@ -22,6 +22,7 @@ from config import conf
 from common.time_check import time_checker
 from common.expired_dict import ExpiredDict
 from plugins import *
+from channel.wechat import draw_pdf
 
 @itchat.msg_register([TEXT,VOICE,PICTURE])
 def handler_single_msg(msg):
@@ -111,7 +112,7 @@ class WechatChannel(ChatChannel):
         self.name = itchat.instance.storageClass.nickName
         logger.info("Wechat login success, user_id: {}, nickname: {}".format(self.user_id, self.name))
         # start message listener
-        itchat.run()
+        itchat.run(debug=True)
 
     # handle_* 系列函数处理收到的消息后构造Context，然后传入produce函数中处理Context和发送回复
     # Context包含了消息的所有信息，包括以下属性
@@ -136,6 +137,22 @@ class WechatChannel(ChatChannel):
             logger.debug("[WX]receive image msg: {}".format(cmsg.content))
         else:
             logger.debug("[WX]receive text msg: {}, cmsg={}".format(json.dumps(cmsg._rawmsg, ensure_ascii=False), cmsg))
+            if cmsg.content.startswith('#鸡娃'):
+                #logger.info("[WX]receive text dir: {}, msg: {}, cmsg={}".format(os.getcwd(),json.dumps(cmsg._rawmsg, ensure_ascii=False), cmsg))
+                cmd = cmsg.content.strip().split(" ")
+                unit_list = []
+                gen_lastest_class = True
+                if cmd[2] != '最新':
+                    gen_lastest_class = False
+                    unit_list = cmd[2:]
+                e, output_file_path = draw_pdf.DrawPDF(cmd[1], "./", gen_lastest_class, unit_list)
+                if e is not None:
+                    itchat.send(e, toUserName = cmsg.from_user_id)
+                else:
+                    r = itchat.upload_file(output_file_path)
+                    #logger.info("media_id: {}".format(r))
+                    r = itchat.send_file(output_file_path, toUserName = cmsg.from_user_id, mediaId=r["MediaId"])
+                    #logger.info("send_file: {}".format(r))
         context = self._compose_context(cmsg.ctype, cmsg.content, isgroup=False, msg=cmsg)
         if context:
             self.produce(context)
@@ -151,6 +168,23 @@ class WechatChannel(ChatChannel):
             logger.debug("[WX]receive image for group msg: {}".format(cmsg.content))
         else:
             # logger.debug("[WX]receive group msg: {}, cmsg={}".format(json.dumps(cmsg._rawmsg, ensure_ascii=False), cmsg))
+            if cmsg.content.startswith('#鸡娃'):
+                #logger.info("[WX]receive text dir: {}, msg: {}, cmsg={}".format(os.getcwd(),json.dumps(cmsg._rawmsg, ensure_ascii=False), cmsg))
+                cmd = cmsg.content.strip().split(" ")
+                unit_list = []
+                gen_lastest_class = True
+                if cmd[2] != '最新':
+                    gen_lastest_class = False
+                    unit_list = cmd[2:]
+                    print(unit_list)
+                e, output_file_path = draw_pdf.DrawPDF(cmd[1], "./", gen_lastest_class, unit_list)
+                if e is not None:
+                    itchat.send(e, toUserName = cmsg.from_user_id)
+                else:
+                    r = itchat.upload_file(output_file_path)
+                    #logger.info("media_id: {}".format(r))
+                    r = itchat.send_file(output_file_path, toUserName = cmsg.from_user_id, mediaId=r["MediaId"])
+                    #logger.info("send_file: {}".format(r))
             pass
         context = self._compose_context(cmsg.ctype, cmsg.content, isgroup=True, msg=cmsg)
         if context:
