@@ -1,0 +1,940 @@
+U1L1,key,subject,学科
+U1L1,key,library,图书馆
+U1L1,key,timetable,课程时间表
+U1L1,key,geography,地理
+U1L1,key,music,音乐
+U1L1,key,I.T.,电脑课
+U1L1,key,history,历史
+U1L1,key,maths,数学
+U1L1,key,science,科学
+U1L1,key,art,艺术
+U1L1,key,P.E.,体育
+U1L1,key,puzzle,迷
+U1L1,key,understand,明白
+U1L1,key,check,核对
+U1L1,key,correct,改正
+U1L1,key,wear,穿
+U1L1,key,uniform,制服
+U1L1,key,arrive at,到达
+U1L1,key,leave,离开
+U1L1,key,before,在...之前
+U1L1,key,after,在...之后
+U1L1,key,always,总是
+U1L1,key,often,经常
+U1L1,key,sometimes,有时候
+U1L1,key,never,从不
+U1L1,key,late,迟到
+U1L1,key,have to,必须
+U1L1,key,wear,穿
+U1L1,key,uniform,制服
+U1L1,key,no way,不可能
+U1L1,key,get up,起床
+U1L1,key,brush your teeth,刷牙
+U1L1,key,wash your face,洗脸
+U1L1,key,go to school,去学校
+U1L1,key,do your homework,做作业
+U1L1,key,play in the park,在公园玩
+U1L1,key,have breakfast,吃早饭
+U1L1,key,have lunch,吃午饭
+U1L1,key,have dinner,吃晚饭
+U1L1,key,take a shower,洗澡
+U1L1,key,go to bed,睡觉
+U1L1,key,problem,问题
+U1L1,key,clue,线索
+U1L1,key,code,码，代码
+U1L1,key,easy,容易
+U1L1,key,difficult,困难
+U1L1,key,interesting,有意思的
+U1L1,key,dark,暗的
+U1L1,key,bright,亮的
+U1L1,key,keep,留住
+U1L1,key,activity,活动
+U1L2,key,lesson,课
+U1L2,key,oak tree,橡树
+U1L2,key,story,故事
+U1L2,key,film / movie,电影
+U1L2,key,dream,做梦
+U1L2,key,dragon,龙
+U1L2,key,laugh,大笑
+U1L2,key,smile,微笑
+U1L2,key,the Great Wall,长城
+U1L2,key,start / begin,开始
+U1L2,key,work,工作
+U1L2,key,plus,加
+U1L2,key,triangle,三角形
+U1L2,key,lifecycle,生命周期
+U1L2,key,caterpillar,毛毛虫
+U1L2,key,paint,画油画
+U1L2,key,stage,舞台
+U1L2,key,concert,音乐会，演唱会
+U1L2,key,compete,(v)比赛
+U1L2,key,competition,(n)比赛
+U1L2,key,fantastic,棒极了的
+U1L2,key,wonderful,美妙的
+U1L2,key,prize,奖
+U1L2,key,first prize,一等奖
+U1L2,key,clap,鼓掌
+U1L2,key,plastic,塑料的
+U1L2,key,bottle,瓶子
+U1L2,key,rice,米
+U1L2,key,decorate,装饰
+U1L2,key,learn,学习
+U1L2,key,project,项目
+U1L2,key,scrapbook,剪贴铺
+U1L2,key,profile,概况
+U1L2,key,cover,封面
+U1L2,key,result,结果
+U1L2,key,rule,规则
+U1L2,key,bar chart,条形图表
+U1L2,key,musical,音乐的
+U1L2,key,blow,吹
+U1L2,key,rhythm,节奏
+U1L2,key,strings,弦
+U1L2,key,instruments,器材
+U1L2,key,wind instruments,管乐器
+U1L2,key,stringed instruments,弦乐器
+U1L2,key,percussion instruments,打击乐器
+U1L2,key,recorder,竖笛
+U1L2,key,flute,笛子
+U1L2,key,triangle,三脚铁
+U1L2,key,piano,钢琴
+U1L2,key,guitar,吉他
+U1L2,key,drum,鼓
+U1L2,key,violin,小提琴
+U1L2,key,cello,大提琴
+U2L1,key,rolls / sandwiches,三明治
+U2L1,key,lemonade,柠檬水
+U2L1,key,cheese,奶酪
+U2L1,key,apple juice,苹果汁
+U2L1,key,water,水
+U2L1,key,soup,汤
+U2L1,key,vegetables,蔬菜
+U2L1,key,fruit,水果
+U2L1,key,salad,沙拉
+U2L1,key,meat,肉
+U2L1,key,village,村子
+U2L1,key,pool,水池
+U2L1,key,lake,湖
+U2L1,key,cool,凉，酷
+U2L1,key,check,检查
+U2L1,key,look for,寻找
+U2L1,key,find,找到
+U2L1,key,circle,圈出
+U2L1,key,any,任何
+U2L1,key,some,一些
+U2L1,key,thirsty,渴了
+U2L1,key,would like,想要
+U2L1,key,picnic,野餐
+U2L1,key,fun,好玩
+U2L1,key,funny,滑稽，搞笑
+U2L1,key,lovely,美妙的
+U2L1,key,basket,篮子
+U2L1,key,by,在...旁边
+U2L1,key,bark,狗叫
+U2L1,key,sausage,香肠
+U2L1,key,carrot,胡萝卜
+U2L1,key,tomato,西红柿
+U2L1,key,potato,土豆
+U2L1,key,onion,洋葱
+U2L1,key,peas,豌豆
+U2L1,key,beans,豆
+U2L1,key,bite – bit,咬
+U2L1,key,village,村子
+U2L1,key,hut,木屋
+U2L1,key,far,远
+U2L1,key,ill / sick,病了
+U2L1,key,medicine,药
+U2L1,key,golden,金色的
+U2L1,key,top,顶端
+U2L1,key,above,在上面
+U2L1,key,below,在下面
+U2L1,key,better,更好
+U2L1,key,fool,笨蛋
+U2L1,key,waterfall,瀑布
+U2L2,key,meal,餐
+U2L2,key,fried,炒的
+U2L2,key,rice,米饭
+U2L2,key,toast,面包片
+U2L2,key,bacon,培根
+U2L2,key,a piece of cake,一块蛋糕
+U2L2,key,olives,橄榄
+U2L2,key,honey,蜂蜜
+U2L2,key,salami,意式香肠
+U2L2,key,black tea,红茶
+U2L2,key,full,满，饱
+U2L2,key,tasty,好吃的
+U2L2,key,restaurant,餐馆
+U2L2,key,bell,铃
+U2L2,key,hall,大厅
+U2L2,key,inside,里面
+U2L2,key,outside,外面
+U2L2,key,special,特殊的
+U2L2,key,food chain,食物链
+U2L2,key,habitat,栖息地
+U2L2,key,energy,能量
+U2L2,key,need,需要
+U2L2,key,feel,感觉
+U2L2,key,grow,生长
+U2L2,key,weak,弱
+U2L2,key,strong,强壮
+U2L2,key,often,经常
+U2L2,key,plant,植物
+U2L2,key,grass,草
+U2L2,key,owl,猫头鹰
+U2L2,key,lizard,蜥蜴
+U2L2,key,snail,蜗牛，田螺
+U2L2,key,fox,狐狸
+U2L2,key,seaweed,海草
+U2L2,key,rainforest,雨林
+U2L2,key,ocean,海洋
+U2L2,key,mountain,山
+U2L2,key,desert,沙漠
+U2L2,key,city,城市
+U2L2,key,example,例子
+U2L2,key,stick,粘
+U2L2,key,picture,图片
+U2L2,key,photo / photograph,照片
+U2L2,key,each other,互相
+U2L2,key,act out,演出来
+U2L2,key,choose,选择
+U2L2,key,role,角色
+U2L2,key,card,卡片
+U2L2,key,plan,计划
+U2L2,key,useful language,有用的语言
+U2L2,key,meal,餐
+U2L2,key,restaurant,餐馆
+U2L2,key,menu,菜单
+U2L2,key,steak,牛排
+U2L2,key,waiter,服务员
+U2L2,key,customer,顾客
+U2L2,key,order,点菜
+U2L2,key,bill,账单
+U2L2,key,delicious,美味的
+U2L2,key,tasty,美味的
+U3L1,key,tidy up,打扫干净
+U3L1,key,do the shopping,买东西
+U3L1,key,take the dog for a walk,遛狗
+U3L1,key,feed the dog,喂狗
+U3L1,key,cook,做饭
+U3L1,key,wash up/wash dishes,洗碗
+U3L1,key,dry the dishes,把碗擦干
+U3L1,key,make the tea,泡茶
+U3L1,key,sweep the floor,扫地
+U3L1,key,past,过了
+U3L1,key,to,还要
+U3L1,key,a quarter,一刻钟
+U3L1,key,half,半小时
+U3L1,key,busy,忙
+U3L1,key,also,也
+U3L1,key,daily,每天的
+U3L1,key,task,任务
+U3L1,key,housework,家务活
+U3L1,key,always,总是
+U3L1,key,usually,通常，一般
+U3L1,key,often,经常
+U3L1,key,sometimes,有时候
+U3L1,key,never,从不
+U3L1,key,climb,爬
+U3L1,key,late,迟到
+U3L1,key,till,直到
+U3L1,key,start,开始
+U3L1,key,then,然后
+U3L1,key,review,复习
+U3L1,key,put away,放起来
+U3L1,key,clue,线索
+U3L1,key,still,仍然
+U3L1,key,mean,意思
+U3L1,key,look for,寻找
+U3L1,key,dark,天黑
+U3L1,key,idea,想法
+U3L1,key,wait,等待
+U3L1,key,mess (n),一团糟
+U3L1,key,messy (adj),乱糟糟的
+U3L1,key,remember,记住
+U3L1,key,heavy,重的
+U3L1,key,letter,字母
+U3L1,key,horrible,可怕的，糟糕的
+U3L1,key,first,第一
+U3L1,key,second,第二
+U3L1,key,third,第三
+U3L1,key,fourth,第四
+U3L1,key,fifth,第五
+U3L1,key,eighth,第八
+U3L1,key,ninth,第九
+U3L1,key,rubbish,垃圾
+U3L1,key,fabulous,很好的
+U3L1,key,van,货车
+U3L2,key,robot,机器人
+U3L2,key,laboratory,实验室
+U3L2,key,scientist,科学家
+U3L2,key,bucket,桶
+U3L2,key,difficult,困难的
+U3L2,key,easy,容易
+U3L2,key,work hard,努力工作
+U3L2,key,fill,填满
+U3L2,key,button,按钮
+U3L2,key,press,按
+U3L2,key,pick up,捡起
+U3L2,key,another,另一个
+U3L2,key,fast,快
+U3L2,key,pour,倒
+U3L2,key,just then,就在那时
+U3L2,key,still,静止不动
+U3L2,key,clean up,清理干净
+U3L2,key,carefully,仔细地
+U3L2,key,put ... in order,把...放到正确的顺序
+U3L2,key,chocolate,巧克力
+U3L2,key,soon,一会儿
+U3L2,key,helper,帮手
+U3L2,key,cover,覆盖
+U3L2,key,little,少
+U3L2,key,less,更少
+U3L2,key,much,多
+U3L2,key,not much,不多
+U3L2,key,more,更多
+U3L2,key,enough,足够
+U3L2,key,not enough,不够
+U3L2,key,dirty,脏的
+U3L2,key,place,地方
+U3L2,key,mean,意味着
+U3L2,key,tap,水龙头
+U3L2,key,save,节约
+U3L2,key,waste,浪费
+U3L2,key,questionnaire,调查问卷
+U3L2,key,take / have a shower,洗澡(淋浴)
+U3L2,key,have a bath,洗澡(浴缸泡澡)
+U3L2,key,drip,滴水
+U3L2,key,points,分
+U3L2,key,measure,测量
+U3L2,key,table,表格
+U3L2,key,list,单子
+U3L2,key,make a list,列一个单子
+U3L2,key,while,当...正在的时候
+U3L2,key,world map,世界地图
+U3L2,key,turn on,打开
+U3L2,key,turn off,关掉
+U3L2,key,bucket,水桶
+U3L2,key,hose-pipe,软管
+U3L2,key,make a report,做报告
+U4L1,key,bank,银行
+U4L1,key,tower,塔
+U4L1,key,library,图书馆
+U4L1,key,market,市场
+U4L1,key,square,广场
+U4L1,key,super,超级
+U4L1,key,supermarket,超市
+U4L1,key,station,站
+U4L1,key,bus station,公交车站
+U4L1,key,train station,火车站
+U4L1,key,subway station,地铁站
+U4L1,key,map,地图
+U4L1,key,sports,运动
+U4L1,key,centre,中心
+U4L1,key,sports centre,运动中心
+U4L1,key,high,高
+U4L1,key,low,低
+U4L1,key,town,城镇，市中心
+U4L1,key,lady,女士
+U4L1,key,imagine,想象
+U4L1,key,near,近
+U4L1,key,far,远
+U4L1,key,next to,挨着
+U4L1,key,opposite,对面
+U4L1,key,above,上面
+U4L1,key,below,下面
+U4L1,key,between,在中间
+U4L1,key,behind,在后面
+U4L1,key,in front of,在前面
+U4L1,key,look for,寻找
+U4L1,key,lost,丢了
+U4L1,key,get lost,走丢
+U4L1,key,bread,面包
+U4L1,key,kitchen,厨房
+U4L1,key,hurry,加快
+U4L1,key,funfair,游乐园
+U4L1,key,pirate,海盗
+U4L1,key,ship,船
+U4L1,key,place,地方
+U4L1,key,right,对的
+U4L1,key,wrong,错的
+U4L1,key,scary,吓人的
+U4L1,key,scared,感到害怕的
+U4L1,key,excited,激动的
+U4L1,key,exciting,令人激动的
+U4L1,key,interesting,有意思的
+U4L1,key,interested,感到有意思的
+U4L1,key,boring,令人无聊的
+U4L1,key,bored,感到无聊的
+U4L2,key,castle,城堡
+U4L2,key,money,钱
+U4L2,key,find,找到
+U4L2,key,playground,操场
+U4L2,key,swing,秋千
+U4L2,key,vegetables,蔬菜
+U4L2,key,fruit,水果
+U4L2,key,wait for,等待
+U4L2,key,double,双倍
+U4L2,key,triple,三倍
+U4L2,key,listen to music,听音乐
+U4L2,key,shopping mall,商场
+U4L2,key,direction,方向
+U4L2,key,map,地图
+U4L2,key,compass,指南针
+U4L2,key,north (N),北
+U4L2,key,south (S),南
+U4L2,key,east (E),东
+U4L2,key,west (W),西
+U4L2,key,northeast (NE),东北
+U4L2,key,northwest (NW),西北
+U4L2,key,southeast (SE),东南
+U4L2,key,southwest (SW),西南
+U4L2,key,city,城市
+U4L2,key,capital / capital city,首都，首府
+U4L2,key,country,国家，乡村
+U4L2,key,point (n) 点，分数 (v),指向
+U4L2,key,pointer,指针
+U4L2,key,important,重要的
+U4L2,key,instrument,设备
+U4L2,key,explorer,探险者
+U4L2,key,map maker,制图人
+U4L2,key,less often than before,比以前更少用
+U4L2,key,gadget,小型电子设备
+U4L2,key,satellite,人造卫星
+U4L2,key,system,系统
+U4L2,key,globe,地球仪
+U4L2,key,global,全球的
+U4L2,key,collect,收集
+U4L2,key,tape,胶条
+U4L2,key,stick,粘住
+U4L2,key,magnet,磁铁
+U4L2,key,case,盒子
+U4L2,key,bowl,碗
+U4L2,key,move,移动
+U4L2,key,take,乘坐
+U4L2,key,transfer,转换，换乘
+U4L2,key,get off,下车
+U4L2,key,visit,参观
+U4L2,key,visitor,参观的人
+U5L1,key,dolphin,海豚
+U5L1,key,turtle,海龟
+U5L1,key,anchor,锚
+U5L1,key,octopus,章鱼
+U5L1,key,seahorse,海马
+U5L1,key,seal,海豹
+U5L1,key,starfish,海星
+U5L1,key,shell,贝壳
+U5L1,key,dive,跳水
+U5L1,key,ugly,丑陋
+U5L1,key,chain,连锁
+U5L1,key,extinct,灭绝的
+U5L1,key,auk,海雀
+U5L1,key,Baiji,白暨豚
+U5L1,key,island,岛
+U5L1,key,Britain,英国
+U5L1,key,feather,羽毛
+U5L1,key,dinosaur,恐龙
+U5L1,key,scared,害怕的
+U5L1,key,tank,鱼缸
+U5L1,key,memory,记忆
+U5L1,key,yesterday,昨天
+U5L1,key,the day before yesterday,前天
+U5L1,key,tomorrow,明天
+U5L1,key,the day after tomorrow,后天
+U5L1,key,clever,聪明的
+U5L1,key,wet,潮湿的
+U5L1,key,crab,螃蟹
+U5L1,key,shark,鲨鱼
+U5L1,key,crocodile,鳄鱼
+U5L1,key,seaweed,海藻
+U5L1,key,seabed,海床
+U5L1,key,trap,陷阱
+U5L1,key,giant,巨大的
+U5L1,key,stupid,愚蠢的
+U5L1,key,beauty (n),漂亮
+U5L1,key,beautiful (a),漂亮
+U5L1,key,cage,笼子
+U5L1,key,stuck,卡住的
+U5L1,key,super,超级
+U5L1,key,special,特殊的
+U5L1,key,was,is的过去式
+U5L1,key,wasn’t,isn't的过去式
+U5L1,key,were,are的过去式
+U5L1,key,weren’t,aren't的过去式
+U5L2,key,find – found,找到
+U5L2,key,island,岛
+U5L2,key,Ireland,爱尔兰
+U5L2,key,storm,暴风雨
+U5L2,key,knock,敲门
+U5L2,key,hunt,狩猎
+U5L2,key,treasure hunting,寻宝
+U5L2,key,look for,寻找
+U5L2,key,net,网
+U5L2,key,bill,喙
+U5L2,key,sort,种类
+U5L2,key,puffin,角嘴海雀
+U5L2,key,suddenly,突然
+U5L2,key,coast,海岸
+U5L2,key,beach,沙滩
+U5L2,key,cliff,悬崖
+U5L2,key,shell,壳
+U5L2,key,same,一样的
+U5L2,key,different,不同的
+U5L2,key,escape,逃跑
+U5L2,key,complete,完成
+U5L2,key,fact,事实
+U5L2,key,sheet,一张纸
+U5L2,key,picture,图片
+U5L2,key,guess,猜
+U5L2,key,shout at ...,朝某人喊
+U5L2,key,run along the beach,沿着海滩跑
+U5L2,key,stripe,条纹
+U5L2,key,vertical,垂直的
+U5L2,key,horizontal,水平的
+U5L2,key,diagonal,斜的
+U5L2,key,spiral,螺旋
+U5L2,key,spots,斑点
+U5L2,key,pattern,图形
+U5L2,key,symmetry,对称性
+U5L2,key,symmetrical,对称的
+U5L2,key,asymmetrical,非对称的
+U5L2,key,shape,形状
+U5L2,key,nature,自然
+U5L2,key,natural,自然的
+U5L2,key,draw a line,画一条线
+U5L2,key,paint,涂颜料
+U5L2,key,press,按住
+U5L2,key,bottom,底部
+U5L2,key,ocean,海洋
+U5L2,key,scene,场景
+U5L2,key,cinema,电影院
+U5L2,key,theatre,剧院
+U5L2,key,salt water,盐水
+U5L2,key,fresh water,淡水
+U5L2,key,sand,沙子
+U5L2,key,sandy,沙子的
+U5L2,key,plant,植物
+U5L2,key,fold,折叠
+U5L2,key,beautiful,漂亮
+U6L1,key,gadget,小型电器
+U6L1,key,lift / elevator,电梯
+U6L1,key,walkie-talkie,对讲机
+U6L1,key,torch / flashlight,手电筒
+U6L1,key,CD player CD,播放器
+U6L1,key,mp3 player mp3,播放器
+U6L1,key,mobile phone,手机
+U6L1,key,smart phone,智能手机
+U6L1,key,electric fan,电风扇
+U6L1,key,air conditioner,空调
+U6L1,key,laptop,笔记本电脑
+U6L1,key,electric toothbrush,电动牙刷
+U6L1,key,games console,游戏机
+U6L1,key,watch,手表
+U6L1,key,cave,山洞
+U6L1,key,underground,地底下，地铁
+U6L1,key,buy,买
+U6L1,key,sell,卖
+U6L1,key,more,更多
+U6L1,key,less,更少
+U6L1,key,better,更好
+U6L1,key,worse,更坏
+U6L1,key,expensive,贵
+U6L1,key,cheap,便宜
+U6L1,key,fast,快
+U6L1,key,slow,慢
+U6L1,key,happy,高兴
+U6L1,key,sad,难过
+U6L1,key,beautiful,漂亮
+U6L1,key,ugly,丑
+U6L1,key,light,轻的
+U6L1,key,heavy,重的
+U6L1,key,new,新的
+U6L1,key,old,旧的
+U6L1,key,inside,里面
+U6L1,key,outside,外面
+U6L1,key,check,检查
+U6L1,key,mine,我的
+U6L1,key,yours,你的
+U6L1,key,kilo,千
+U6L1,key,per,每
+U6L1,key,km/h,公里/每小时
+U6L1,key,cost,花费
+U6L1,key,aeroplane,飞机
+U6L1,key,airbus,飞机
+U6L1,key,seat,座位
+U6L1,key,supreme / ultimate,最终的，极致的
+U6L1,key,funny,滑稽的
+U6L1,key,fun,有趣的
+U6L1,key,cave,山洞
+U6L1,key,puzzle,迷
+U6L1,key,hide,躲藏
+U6L1,key,million,百万
+U6L1,key,billion,十亿
+U6L1,key,clever,聪明
+U6L1,key,scared,感到害怕的
+U6L1,key,scary,让人害怕
+U6L2,key,adventure,冒险
+U6L2,key,compass,指南针
+U6L2,key,customer,顾客
+U6L2,key,shop assistant,售货员
+U6L2,key,missing,不见了的
+U6L2,key,imagine,想象
+U6L2,key,count,数数
+U6L2,key,important,重要的
+U6L2,key,professor,教授
+U6L2,key,travel,旅行
+U6L2,key,combine,结合
+U6L2,key,add,加
+U6L2,key,subtract,减
+U6L2,key,invent,发明
+U6L2,key,simple,简单的
+U6L2,key,sequence,顺序
+U6L2,key,swap,交换
+U6L2,key,pair,一双
+U6L2,key,Hindu,印度的
+U6L2,key,Arabic,阿拉伯的
+U6L2,key,Europe,欧洲
+U6L2,key,European,欧洲的
+U6L2,key,Africa,非洲
+U6L2,key,African,非洲的
+U6L2,key,Italy,意大利
+U6L2,key,Italian,意大利的
+U6L2,key,Rome,罗马
+U6L2,key,Roman,罗马的
+U6L2,key,numerals,数字
+U6L2,key,fact,事实
+U6L2,key,birthday,生日
+U6L2,key,present / gift,礼物
+U6L2,key,cycle,骑自行车
+U6L2,key,price,价格
+U6L2,key,camera,照相机
+U6L2,key,visit,参观，看
+U6L2,key,favourite,最喜欢的
+U6L2,key,else,别的
+U6L2,key,spell,拼写
+U6L2,key,than,比
+U6L2,key,morning,早上
+U6L2,key,afternoon,下午
+U6L2,key,evening,晚上
+U6L2,key,buy,买
+U6L2,key,haven’t,没有
+U6L2,key,expensive,贵的
+U6L2,key,cheap,便宜
+U6L2,key,cheaper,更便宜
+U6L2,key,credit card,信用卡
+U6L2,key,cash,现金
+U6L2,key,sure,当然
+U6L2,key,of course,当然
+U7L1,key,hospital,医院
+U7L1,key,doctor,医生
+U7L1,key,nurse,护士
+U7L1,key,patient,病人
+U7L1,key,cold,感冒
+U7L1,key,flu,流感
+U7L1,key,cough,咳嗽
+U7L1,key,earache,耳朵疼
+U7L1,key,headache,头疼
+U7L1,key,toothache,牙疼
+U7L1,key,stomachache,胃疼
+U7L1,key,message,消息
+U7L1,key,stairs,楼梯
+U7L1,key,land,着陆
+U7L1,key,smile,微笑
+U7L1,key,plate,盘子
+U7L1,key,terrible,糟糕的
+U7L1,key,flea,跳蚤
+U7L1,key,violin,小提琴
+U7L1,key,climb,爬
+U7L1,key,switch,开关
+U7L1,key,radio,广播
+U7L1,key,dinosaur,恐龙
+U7L1,key,parents,父母
+U7L1,key,pasta,意大利面食
+U7L1,key,spaghetti,意大利面条
+U7L1,key,take photos,照相
+U7L1,key,newspaper,报纸
+U7L1,key,awful,很糟糕
+U7L1,key,terrible,糟糕的
+U7L1,key,pill,药丸
+U7L1,key,text message,消息
+U7L1,key,lolly/lollipop,棒棒糖
+U7L1,key,later,一会儿
+U7L1,key,quietly,安静地
+U7L1,key,castle,城堡
+U7L1,key,trap,陷阱
+U7L1,key,visit,参观，看望
+U7L1,key,play a trick on us,骗我们
+U7L1,key,leave us alone,离开我们
+U7L1,key,for a moment,一小会儿
+U7L1,key,injection,打针
+U7L1,key,lie down,躺下
+U7L1,key,mean,意思是
+U7L1,key,camp,露营
+U7L1,key,jumped,跳的过去式
+U7L1,key,shouted,喊的过去式
+U7L1,key,landed,着陆的过去式
+U7L1,key,looked at,看的过去式
+U7L1,key,woke up,醒了
+U7L1,key,felt,感觉
+U7L1,key,had,有的过去式
+U7L1,key,went,去的过去式
+U7L1,key,came,来的过去式
+U7L1,key,gave,给的过去式
+U7L1,key,said,说的过去式
+U7L1,key,got,得到的过去式
+U7L1,key,found,找到的过去式
+U7L1,key,took,带的过去式
+U7L2,key,hurt,伤害，疼
+U7L2,key,save,救
+U7L2,key,score,分数
+U7L2,key,goalkeeper,守门员
+U7L2,key,kick,踢
+U7L2,key,team,队
+U7L2,key,check,核对
+U7L2,key,knee,膝盖
+U7L2,key,tomorrow,明天
+U7L2,key,screen,屏幕
+U7L2,key,binoculars,望远镜
+U7L2,key,pair,一双
+U7L2,key,fantastic,精彩的
+U7L2,key,street,街道
+U7L2,key,wood,木头，树林
+U7L2,key,monster,怪兽
+U7L2,key,body,身体
+U7L2,key,fever,发烧
+U7L2,key,temperature,温度
+U7L2,key,room temperature,室温
+U7L2,key,perfect,完美
+U7L2,key,virus,病毒
+U7L2,key,thermometer,温度计
+U7L2,key,below,低于
+U7L2,key,above,高于
+U7L2,key,make sure,确保
+U7L2,key,plenty of,很多
+U7L2,key,rest,休息
+U7L2,key,fight,跟...作战，打架
+U7L2,key,germs,病菌
+U7L2,key,dehydrated,脱水
+U7L2,key,pyjamas,睡衣
+U7L2,key,blanket,毯子
+U7L2,key,wear – wore,穿
+U7L2,key,bottle,瓶子
+U7L2,key,alcohol,酒，酒精
+U7L2,key,food colouring,食用色素
+U7L2,key,straw,吸管
+U7L2,key,clay,粘土
+U7L2,key,hole,洞
+U7L2,key,push,推
+U7L2,key,pull,拉
+U7L2,key,until,直到
+U7L2,key,bottom,底部
+U7L2,key,mark,做标记
+U7L2,key,height,高度
+U7L2,key,liquid,液体
+U7L2,key,kill,杀掉
+U7L2,key,cell,细胞
+U7L2,key,decide,决定
+U7L2,key,pain,疼痛
+U7L2,key,hurt -hurt,伤害
+U7L2,key,enough,足够
+U8L1,key,flag,旗子
+U8L1,key,ticket,票
+U8L1,key,China,中国
+U8L1,key,India,印度
+U8L1,key,Japan,日本
+U8L1,key,Thailand,泰国
+U8L1,key,the UK / Britain,英国
+U8L1,key,France,法国
+U8L1,key,Italy,意大利
+U8L1,key,Germany,德国
+U8L1,key,Spain,西班牙
+U8L1,key,Egypt,埃及
+U8L1,key,Turkey,土耳其
+U8L1,key,Canada,加拿大
+U8L1,key,America / the USA,美国
+U8L1,key,Chile,智利
+U8L1,key,Mexico,墨西哥
+U8L1,key,Brazil,巴西
+U8L1,key,Argentina,阿根廷
+U8L1,key,Australia,澳大利亚
+U8L1,key,New Zealand,新西兰
+U8L1,key,London,伦敦
+U8L1,key,New York,纽约
+U8L1,key,Paris,巴黎
+U8L1,key,Sydney,悉尼
+U8L1,key,Central Park,中央公园
+U8L1,key,The Statue of Liberty,自由女神像
+U8L1,key,win,赢
+U8L1,key,winner,赢家
+U8L1,key,change,零钱
+U8L1,key,hippo,河马
+U8L1,key,restaurant,餐馆
+U8L1,key,hotel,宾馆
+U8L1,key,present,礼物，现在
+U8L1,key,comic,漫画
+U8L1,key,flight,航班
+U8L1,key,postcard,明信片
+U8L1,key,far away,很远的地方
+U8L1,key,on my own,我自己
+U8L1,key,rocket,火箭
+U8L1,key,have fun,玩
+U8L1,key,stadium,体育场
+U8L1,key,choose,选择
+U8L1,key,glad,高兴的
+U8L1,key,drop,掉下来
+U8L1,key,missing,丢失的
+U8L1,key,gym,健身房
+U8L2,key,ancient,古代的
+U8L2,non,Babylon,巴比伦
+U8L2,key,pyramids,金字塔
+U8L2,non,Sphinx,狮身人面像
+U8L2,key,the Great Wall,长城
+U8L2,key,the opera house,歌剧院
+U8L2,non,hanging gardens,空中花园
+U8L2,key,build,建
+U8L2,key,built,建（过去式）
+U8L2,key,building,建筑
+U8L2,key,visit,参观
+U8L2,key,finally,最后
+U8L2,key,time machine,时间机器
+U8L2,key,explore,探索
+U8L2,non,temple,寺庙
+U8L2,key,statue,雕像
+U8L2,key,camera,照相机
+U8L2,key,wife,妻子
+U8L2,key,husband,丈夫
+U8L2,non,trip,旅行
+U8L2,non,amazing,棒极了
+U8L2,key,fantastic,精彩的
+U8L2,key,be famous for,因为...而闻名
+U8L2,non,be close to,靠近
+U8L2,non,move,搬
+U8L2,non,origami,折纸艺术
+U8L2,key,fold,折
+U8L2,non,folder,文件夹
+U8L2,non,model,模型
+U8L2,non,monk,和尚
+U8L2,key,popular,受欢迎的
+U8L2,non,own,自己的
+U8L2,non,corner,角
+U8L2,non,upwards,向上
+U8L2,non,decorate,装饰
+U8L2,non,press,按压
+U8L2,non,flap,拍打
+U8L2,key,abroad,国外的
+U8L2,key,relatives,亲戚
+U8L2,non,relax,放松
+U8L2,non,Asia,亚洲
+U8L2,non,Africa,非洲
+U8L2,non,Europe,欧洲
+U8L2,non,Spain,西班牙
+U8L2,non,Madrid,马德里
+U8L2,non,Barcelona,巴塞罗那
+U8L2,non,Malaga,马拉加
+U8L2,non,Picasso,毕加索
+U8L2,non,painter,画家
+U8L2,non,France,法国
+U8L2,non,capital,首都
+U8L2,non,team,队
+U8L2,non,information,信息
+U9L1,key,holiday,假期
+U9L1,non,tests,考试
+U9L1,non,exams,考试
+U9L1,non,final exams,期末考试
+U9L1,non,mid-term tests,期中考试
+U9L1,key,prepare,准备
+U9L1,key,thunder,雷
+U9L1,key,lightning,闪电
+U9L1,key,thunderstorm,雷暴
+U9L1,non,cloud,云
+U9L1,key,cloudy,多云的
+U9L1,non,rain,雨，下雨
+U9L1,key,rainy,下雨的
+U9L1,non,rainbow,彩虹
+U9L1,non,rain shower,阵雨
+U9L1,non,wind,风
+U9L1,key,windy,刮风的
+U9L1,non,snow,雪，下雪
+U9L1,key,snowy,下雪的
+U9L1,non,fog,雾
+U9L1,key,foggy,有雾的
+U9L1,non,smog,雾霾
+U9L1,non,smoggy,有雾霾的
+U9L1,key,boots,靴子
+U9L1,key,umbrella,伞
+U9L1,key,raincoat,雨衣
+U9L1,non,lucky,幸运的
+U9L1,non,unlucky,不幸的
+U9L1,non,puzzle,迷
+U9L1,non,an answer to,...的答案
+U9L1,key,gardening,园艺
+U9L1,non,nearly,几乎
+U9L1,key,adventure,探险
+U9L1,non,end,结束
+U9L1,non,stay in,呆着家里
+U9L1,non,snorkel,潜水
+U9L1,key,cartoon,动画片
+U9L1,key,treasure,财富，宝藏
+U9L1,key,message,消息
+U9L1,non,kind,善良，种类
+U9L1,key,stupid,愚蠢的
+U9L1,non,letter,字母，信
+U9L1,non,finder,找到东西的人
+U9L1,non,wrong,错的
+U9L1,non,true friends,真正的朋友
+U9L1,key,relatives,亲戚
+U9L1,key,the opera house,歌剧院
+U9L1,key,building,建筑
+U9L2,non,perfect,完美的
+U9L2,key,end,结尾
+U9L2,non,pony,小马驹
+U9L2,non,stable,马厩
+U9L2,non,coat,动物皮毛
+U9L2,non,brush,刷
+U9L2,non,shout,喊
+U9L2,non,Africa,非洲
+U9L2,key,spend,花费，度过
+U9L2,non,fair,公平
+U9L2,key,parents,父母
+U9L2,non,television,TV，电视
+U9L2,non,even,甚至
+U9L2,key,text message,文字消息
+U9L2,non,the next day,第二天
+U9L2,non,come along,一起来
+U9L2,non,pick up,接
+U9L2,non,architecture,建筑
+U9L2,non,architect,建筑师
+U9L2,non,hemisphere,半球
+U9L2,non,the Northern hemisphere,北半球
+U9L2,non,the Southern hemisphere,南半球
+U9L2,non,Japan,日本
+U9L2,non,Canada,加拿大
+U9L2,non,Malaysia,马来西亚
+U9L2,non,Singapore,新加坡
+U9L2,non,New Zealand,新西兰
+U9L2,key,the Equator,赤道
+U9L2,key,half,半
+U9L2,key,halves,半（复数）
+U9L2,non,season,季节
+U9L2,key,spring,春天
+U9L2,key,summer,夏天
+U9L2,key,autumn,秋天
+U9L2,key,fall,秋天
+U9L2,key,winter,冬天
+U9L2,key,dry seasons,干季
+U9L2,key,wet seasons,雨季
+U9L2,key,spin,旋转
+U9L2,non,axis,轴线
+U9L2,key,orbit,轨道
+U9L2,key,through,通过
+U9L2,key,planet,星球
+U9L2,key,bottom,底部
+U9L2,key,sunlight,阳光
+U9L2,non,plant,种植
+U9L2,non,bonfire,篝火
+U9L2,non,create,创造
+U9L2,non,own,自己的
+U9L2,non,table,表格
+U9L2,non,poster,海报
+U9L2,non,decide,决定
+U9L2,non,snorkeling,潜水
+U9L2,key,weather,天气

@@ -8,6 +8,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
+import traceback
 
 #布局规划
 ##################################################
@@ -45,14 +46,17 @@ def DrawPDF(word_file, output_dir, spec_latest_unit, unit_filter = []):
         if spec_latest_unit and 0 <= len(total_words):
             unit = total_words[-1][0]
             for w in total_words:
-                if w[0] == unit:# and w[1] == 'key':
+                if w[0] == unit and w[1] == 'key':
                     words.append(w)
+        elif unit_filter[0] == '所有单元':
+            for w in total_words:
+                words.append(w)
         else:
             unit_filter_dict = {}
             for u in unit_filter:
                 unit_filter_dict[u] = None
             for w in total_words:
-                if w[0] in unit_filter_dict:# and w[1] == 'key':
+                if w[0] in unit_filter_dict and w[1] == 'key':
                     words.append(w)
 
         time_string = time.strftime('%Y-%m-%dT%H:%M:%S', time.localtime())
@@ -88,11 +92,9 @@ def DrawPDF(word_file, output_dir, spec_latest_unit, unit_filter = []):
         font_height = pdfmetrics.getAscent(font, size) - pdfmetrics.getDescent(font, size)
         
         #Page1
-        current_words = []
+        current_words = random.sample(words, min(50, len(words)))
         unit_dict = {}
-        for i in range(min(40, len(words))):
-            word = random.choice(words)
-            current_words.append(word)
+        for i,word in enumerate(current_words):
             unit = word[0]
             word_type = word[1]
             eng = word[2]
@@ -135,7 +137,7 @@ def DrawPDF(word_file, output_dir, spec_latest_unit, unit_filter = []):
         c.save()
         return None, output_file_path
     except Exception as e:
-        return "exception: {}".format(e), None
+        return "exception: {} {}".format(e, traceback.format_exc()), None
 
 #output_file_path = DrawPDF("alvin_words", "./", False, ['U8L1', 'U7L1', 'U7L2'])
 #print("Output:{}".format(output_file_path))
