@@ -1,27 +1,34 @@
-U8L2,key,banner,横幅
-U8L2,key,flag,旗子
-U8L2,key,speech bubbles,说话的泡泡
-U8L2,key,for a change,作为改变
-U8L2,key,postcard,明信片
-U8L2,key,journey,旅程
-U8L2,key,orbit,轨道/环形
-U8L2,key,diameter,直径
-U8L2,key,distance,距离
-U8L2,key,object,物体
-U8L2,key,length,长度
-U8L2,key,temperature,温度
-U8L2,key,odd,独特的
-U8L2,key,above,在上面
-U8L2,key,below,在下面
-U8L2,key,land,着陆
-U8L2,key,conversation/dialogue,对话
-U8L2,key,complete,完成/完整的
-U8L2,key,in a month,一个月以后
-U8L2,key,diary entry,日记条目
-U8L2,key,first,首先
-U8L2,key,then,然后
-U8L2,key,after that,在那之后
-U8L2,key,finally,最后
-U8L2,key,far,遥远的（原型）
-U8L2,key,further/farther,遥远的（比较级）
-U8L2,key,the furthest / the farthest,遥远的（最高级）
+U9L1,key,sail a boat,开船
+U9L1,key,row a boat,划船
+U9L1,key,swing on a rope,荡绳子
+U9L1,key,dive into the water,跳水
+U9L1,key,dry your clothes,晾衣服
+U9L1,key,make a raft,做木筏
+U9L1,key,put up a tent,搭帐篷
+U9L1,key,make a fire,生火
+U9L1,key,collect wood,收集木柴
+U9L1,key,campsite,营地
+U9L1,key,hire,租
+U9L1,key,prison/jail,监狱
+U9L1,key,believe,相信
+U9L1,key,news,新闻
+U9L1,key,loaf,块
+U9L1,key,loaves,块（复数）
+U9L1,key,a loaf of bread,一块面包
+U9L1,key,a packet of,一袋
+U9L1,key,a bottle of,一瓶
+U9L1,key,a can of,一罐
+U9L1,key,a bar of chocolate,一条巧克力
+U9L1,key,crisps,薯片
+U9L1,key,organize,组织
+U9L1,key,basket,篮子
+U9L1,key,the chest,箱子
+U9L1,key,fit,大小合适
+U9L1,key,key,钥匙，密码
+U9L1,key,oar,船桨
+U9L1,key,still,还是
+U9L1,key,both,两个都
+U9L1,key,not ... anymore,不再
+U9L1,key,prepare,准备
+U9L1,key,boil,煮
+U9L1,key,assistant,助手，服务人员
