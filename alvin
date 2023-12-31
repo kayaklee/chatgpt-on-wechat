@@ -1,383 +1,46 @@
-U9L2,key,snare,陷阱，罗网
-U9L2,key,mushroom,蘑菇
-U9L2,key,pick,摘
-U9L2,key,used to do something,曾经做某事
-U9L2,key,remove,移除
-U9L2,key,be hurt,被伤害
-U9L2,key,sticks,树枝
-U9L2,key,poke,戳
-U9L2,key,pull,拉
-U9L2,key,push,推
-U9L2,key,tight,紧紧的
-U9L2,key,rucksack,背包
-U9L2,key,catch,抓住
-U9L2,key,caught,抓住（过去式）
-U9L2,key,hide,躲藏，隐藏
-U9L2,key,hid,躲藏，隐藏（过去式）
-U9L2,key,shine,照亮
-U9L2,key,shone,照亮（过去式）
-U9L2,key,torch,手电筒
-U9L2,key,not ... anymore,不再
-U9L2,key,symbols,标志
-U9L2,key,cliff,悬崖
-U9L2,key,ferry,轮渡
-U9L2,key,chair lift,升降椅，索道
-U9L2,key,cycle path,自行车道
-U9L2,key,footpath,(乡间)人行小道
-U9L2,key,grid,网格
-U9L2,key,reference,参考
-U9L2,key,measure,测量
-U9L2,key,scale,磅秤，比例
-U9L2,key,distance,距离
-U9L2,key,until,直到
-U9L2,key,surf,冲浪
-U9L2,key,leaflet,宣传页
-U9L2,key,imaginary,想象的
-U9L2,key,neighborhood,社区
-U9L2,key,arrange,安排
-U9L2,key,fascinating,令人着迷的
-R52-71,key,run away,逃跑（词组）
-R52-71,key,details,细节
-R52-71,key,inspector,检查人员
-R52-71,key,escape,逃跑（动词）
-R52-71,key,novel,小说
-R52-71,key,suspect,犯罪嫌疑人
-R52-71,key,solve,解决
-R52-71,key,historical novels,历史小说
-R52-71,key,the Phoenix,凤凰
-R52-71,key,Pegasus,飞马
-R52-71,key,legend,传奇
-R52-71,key,T-rex,霸王龙
-R52-71,key,Jurassic Park,侏罗纪公园
-R52-71,key,porcupine,豪猪
-R52-71,key,protection,保护（名词）
-R52-71,key,pattern,图案
-R52-71,key,camouflage,保护色
-R52-71,key,exactly,精准地
-R52-71,key,hedgehog,刺猬
-R52-71,key,prey,猎物
-R52-71,key,spike,刺
-R52-71,key,protect,保护（动词）
-R52-71,key,tambourine,铃鼓
-R52-71,key,percussion instrument,打击乐器
-R52-71,key,practise/practice,练习
-R52-71,key,junior,初级的，青少年的
-R52-71,key,clarinet,单簧管，黑管
-R52-71,key,cost,花费钱
-U9L1,key,sail a boat,开船
-U9L1,key,row a boat,划船
-U9L1,key,swing on a rope,荡绳子
-U9L1,key,dive into the water,跳水
-U9L1,key,dry your clothes,晾衣服
-U9L1,key,make a raft,做木筏
-U9L1,key,put up a tent,搭帐篷
-U9L1,key,make a fire,生火
-U9L1,key,collect wood,收集木柴
-U9L1,key,campsite,营地
-U9L1,key,hire,租
-U9L1,key,prison/jail,监狱
-U9L1,key,believe,相信
-U9L1,key,news,新闻
-U9L1,key,loaf,块
-U9L1,key,loaves,块（复数）
-U9L1,key,a loaf of bread,一块面包
-U9L1,key,a packet of,一袋
-U9L1,key,a bottle of,一瓶
-U9L1,key,a can of,一罐
-U9L1,key,a bar of chocolate,一条巧克力
-U9L1,key,crisps,薯片
-U9L1,key,organize,组织
-U9L1,key,basket,篮子
-U9L1,key,the chest,箱子
-U9L1,key,fit,大小合适
-U9L1,key,key,钥匙，密码
-U9L1,key,oar,船桨
-U9L1,key,still,还是
-U9L1,key,both,两个都
-U9L1,key,not ... anymore,不再
-U9L1,key,prepare,准备
-U9L1,key,boil,煮
-U9L1,key,assistant,助手，服务人员
-U8L2,key,banner,横幅
-U8L2,key,flag,旗子
-U8L2,key,speech bubbles,说话的泡泡
-U8L2,key,for a change,作为改变
-U8L2,key,postcard,明信片
-U8L2,key,journey,旅程
-U8L2,key,orbit,轨道/环形
-U8L2,key,diameter,直径
-U8L2,key,distance,距离
-U8L2,key,object,物体
-U8L2,key,length,长度
-U8L2,key,temperature,温度
-U8L2,key,odd,独特的
-U8L2,key,above,在上面
-U8L2,key,below,在下面
-U8L2,key,land,着陆
-U8L2,key,conversation/dialogue,对话
-U8L2,key,complete,完成/完整的
-U8L2,key,in a month,一个月以后
-U8L2,key,diary entry,日记条目
-U8L2,key,first,首先
-U8L2,key,then,然后
-U8L2,key,after that,在那之后
-U8L2,key,finally,最后
-U8L2,key,far,遥远的（原型）
-U8L2,key,further/farther,遥远的（比较级）
-U8L2,key,the furthest / the farthest,遥远的（最高级）
-U8L1,key,planetarium,天文馆
-U8L1,key,planet,行星
-U8L1,key,rocket,火箭
-U8L1,key,UFO=Unidentified Flying Object,不明飞行物
-U8L1,key,alien,外星人
-U8L1,key,star,星，恒星
-U8L1,key,comet,彗星
-U8L1,key,meteor,流星，陨星
-U8L1,key,shooting star,流星
-U8L1,key,telescope,天文望远镜
-U8L1,key,astronaut,宇航员
-U8L1,key,space station,空间站
-U8L1,key,spaceship,太空飞船
-U8L1,key,spacesuit,太空服
-U8L1,key,outer space,外太空
-U8L1,key,galaxy,星系
-U8L1,key,the Galaxy,银河系
-U8L1,key,the Milky Way,银河
-U8L1,key,solar system,太阳系
-U8L1,key,Mercury,水星
-U8L1,key,Venus,金星
-U8L1,key,Earth,地球
-U8L1,key,Mars,火星
-U8L1,key,Jupiter,木星
-U8L1,key,Saturn,土星
-U8L1,key,Uranus,天王星
-U8L1,key,Neptune,海王星
-U8L1,key,Pluto,冥王星
-U8L1,key,photograph/photo,照片
-U8L1,key,photographer,摄影师
-U8L1,key,whizz,飕飕地移动
-U8L1,key,tail,尾巴
-U8L1,key,trail,轨道
-U8L1,key,step,踏入，步
-U8L1,key,final,最终的
-U8L1,key,trap,陷阱
-U8L1,key,treasure,财富
-U8L1,key,almost,几乎
-U8L1,key,poem,诗
-U8L1,key,perfectly,完美地
-U8L1,key,a mystery of my own,一个对我来说的迷
-U7L2,key,wolf,狼
-U7L2,key,woodpecker,啄木鸟
-U7L2,key,deer / deer,鹿(单数、复数)
-U7L2,key,boar,野猪
-U7L2,key,sunrise,日出
-U7L2,key,sunset,日落
-U7L2,key,the rising sun,升起的太阳
-U7L2,key,the setting sun,落下的太阳
-U7L2,key,alone,单独的
-U7L2,key,by the river,在河旁边
-U7L2,key,tell stories,讲故事
-U7L2,key,suddenly,突然
-U7L2,key,fall off / fell off,掉下来(一般式、过去式)
-U7L2,key,roof,屋顶
-U7L2,key,dream / dreamt,做梦(一般式、过去式)
-U7L2,key,concert,音乐会
-U7L2,key,silent,无声的
-U7L2,key,forget,忘记
-U7L2,key,invite,邀请
-U7L2,key,rubber,橡胶
-U7L2,key,rubber band,橡皮筋
-U7L2,key,bang,砰地一声
-U7L2,key,cymbals,钹
-U7L2,key,string,弦
-U7L2,key,stick,鼓槌
-U7L2,key,tie,系
-U7L2,key,metal,金属
-U7L2,key,spoon,勺子
-U7L2,key,length,长度
-U7L2,key,blow,吹
-U7L2,key,wind chime,风铃
-U7L2,key,whose,谁的
-U7L2,key,energy,能量
-U7L2,key,vibration,震动
-U7L2,key,tighter,更紧
-U7L2,key,looser,更松
-U7L2,key,howl,长嚎
-U7L2,key,peck,啄
-U7L2,key,growl,低声吼叫
-U7L2,key,friendly,友好的
-U7L2,key,still,仍然
-U7L2,key,from that moment on,从那时候起
-U7L2,key,band,乐队
-U7L2,key,singer,歌手
-U7L2,key,drummer,鼓手
-U7L2,key,pianist,钢琴家
-U7L2,key,guitarist / guitar player,吉他手
-U7L2,key,result,结果
-U7L2,key,report,报告
-U7L2,key,awful,糟糕的
-U7L2,key,successful,成功的
-U7L2,key,fall asleep,睡着了
-U7L2,key,short forms,缩写
-U7L1,key,orchestra,交响乐团
-U7L1,key,musical instrument,乐器
-U7L1,key,wind instrument,管乐器
-U7L1,key,stringed instrument,弦乐器
-U7L1,key,percussion instrument,打击乐器
-U7L1,key,tambourine,铃鼓
-U7L1,key,triangle,三角铁
-U7L1,key,trumpet,小号
-U7L1,key,trombone,长号
-U7L1,key,recorder,竖笛
-U7L1,key,flute,笛子
-U7L1,key,harp,竖琴
-U7L1,key,keyboard,键盘
-U7L1,key,saxophone,萨克斯
-U7L1,key,violin,小提琴
-U7L1,key,cello,大提琴
-U7L1,key,bass,贝斯
-U7L1,key,double bass,低音提琴
-U7L1,key,clarinet,单簧管，黑管
-U7L1,key,electric guitar,电吉他
-U7L1,key,mine,我的
-U7L1,key,yours,你的
-U7L1,key,his,他的
-U7L1,key,hers,她的
-U7L1,key,ours,我们的
-U7L1,key,theirs,他们的
-U7L1,key,stuff,东西
-U7L1,key,chaos,糟乱
-U7L1,key,year 6,六年级
-U7L1,key,snack,零食
-U7L1,key,lighthouse,灯塔
-U7L1,key,spot,看
-U7L1,key,junior,初级的，青少年的
-U7L1,key,rucksack,背包
-U7L1,key,cost,花费钱
-U7L1,key,concert,音乐会
-U7L1,key,hall,礼堂、大厅
-U7L1,key,practise/practice,练习
-U7L1,key,conductor,（乐团）指挥
-U7L1,key,rich,富有的
-U6L2,key,protect,保护(动词)
-U6L2,key,protection,保护(名词)
-U6L2,key,camouflage,保护色
-U6L2,key,predator,捕食者
-U6L2,key,prey,猎物
-U6L2,key,worm,蠕虫
-U6L2,key,meal,餐
-U6L2,key,trick,伎俩
-U6L2,key,survive,生存
-U6L2,key,against,对抗
-U6L2,key,speed,速度
-U6L2,key,looks,长相
-U6L2,key,weapon,武器
-U6L2,key,poison,毒药
-U6L2,key,poisonous,有毒的
-U6L2,key,antelope,羚羊
-U6L2,key,cheetah,猎豹
-U6L2,key,moth,飞蛾
-U6L2,key,porcupine,豪猪
-U6L2,key,spike,刺
-U6L2,key,dart frog,箭毒娃
-U6L2,key,skin,皮肤
-U6L2,key,hedgehog,刺猬
-U6L2,key,produce,产生
-U6L2,key,chemicals,化学物质
-U6L2,key,skunk,臭触
-U6L2,key,owl,猫头鹰
-U6L2,key,eagle,老鹰
-U6L2,key,the simplest,最简单的
-U6L2,key,pattern,图案
-U6L2,key,shell,壳
-U6L2,key,unusual,不同寻常的
-U6L2,key,zoo director,动物园长
-U6L2,key,following,下面的
-U6L2,key,exactly,精准地
-U6L2,key,details,细节
-U6L2,key,full stop/period,句号
-U6L2,key,capital letters,大写字母
-U6L1,key,myth,神话
-U6L1,key,mythical,神话的
-U6L1,key,beast,野兽
-U6L1,key,tail,尾巴
-U6L1,key,horn,角
-U6L1,key,back,背
-U6L1,key,wing,翅膀
-U6L1,key,neck,脖子
-U6L1,key,feather,羽毛
-U6L1,key,tongue,舌头
-U6L1,key,scale,鳞片
-U6L1,key,scaly,鳞片覆盖的
-U6L1,key,dinosaur,恐龙
-U6L1,key,T-rex,霸王龙
-U6L1,key,Jurassic Park,保罗纪公园
-U6L1,key,unicorn,独角兽
-U6L1,key,mermaid,美人鱼
-U6L1,key,centaur,半人半马怪
-U6L1,key,Pegasus,飞马
-U6L1,key,the Sphinx,狮身人面像
-U6L1,key,the Phoenix,凤凰
-U6L1,key,planet,星球
-U6L1,key,legend,传奇
-U6L1,key,meat-eater,肉食动物
-U6L1,key,plant-eater,食草动物
-U6L1,key,special effects,特效
-U6L1,key,quiz,测试
-U6L1,key,millions of,几百万
-U6L1,key,tractor,拖拉机
-U6L1,key,trap,陷阱
-U6L1,key,ladder,梯子
-U6L1,key,treasure chest,藏宝箱
-U6L1,key,line,句子
-U6L1,key,sharp,尖的
-U6L1,key,ton,吨
-U6L1,key,human,人类
-U6L1,key,forever,永远
-U6L1,key,chance,机会
-U5L2,key,half,一半
-U5L2,key,juicy,多汁的
-U5L2,key,pick,摘
-U5L2,key,shoulder,肩膀
-U5L2,key,escape,逃跑(动词)
-U5L2,key,run away,逃跑(词组)
-U5L2,key,frightening,令人恐惧的、吓人的
-U5L2,key,village,村子
-U5L2,key,mean,凶恶的、刻薄的
-U5L2,key,enemy,敌人
-U5L2,key,in trouble,有麻烦了
-U5L2,key,delicious,美味的
-U5L2,key,return,返回
-U5L2,key,of course,当然
-U5L2,key,seed,种子
-U5L2,key,grow-grew,生长
-U5L2,key,crime,罪
-U5L2,key,fiction,虚构的故事
-U5L2,key,decide,决定
-U5L2,key,real,真的
-U5L2,key,popular,流行的、受欢迎的
-U5L2,key,mystery,神秘事件
-U5L2,key,novel,小说
-U5L2,key,appear,出现
-U5L2,key,disappear,消失
-U5L2,key,create,创造
-U5L2,key,detective,侦探
-U5L2,key,science fiction,科幻
-U5L2,key,novel,小说
-U5L2,key,historical novels,历史小说
-U5L2,key,murder,谋杀
-U5L2,key,murderer,谋杀者
-U5L2,key,all over Europe,整个欧洲
-U5L2,key,orient,东方的
-U5L2,key,express,特快列车;快速的
-U5L2,key,compartment,车厢
-U5L2,key,investigate,调查
-U5L2,key,suspect,犯罪嫌疑人
-U5L2,key,inspector,检查人员
-U5L2,key,take place,发生
-U5L2,key,solve,解决
-U5L2,key,review,评论
-U5L2,key,book review,书评
-U5L2,key,author,作者
-U5L2,key,main character,主角
-U5L2,key,details,细节
+U0,key,problem,问题
+U0,key,experiment,实验
+U0,key,shelf,架子
+U0,key,goggles,护目镜
+U0,key,instructions,说明书
+U0,key,apron,围裙
+U0,key,explosion,爆炸
+U0,key,bubbles,气泡
+U0,key,test tube,试管
+U0,key,liquid,液体
+U0,key,gloves,手套
+U0,key,powder,粉末
+U0,key,spoon,勺子
+U0,key,subiect,课目
+U0,key,ancient,古代人，古代的
+U0,key,step into,走进
+U0,key,gate,大门
+U0,key,mate,朋友，小伙伴
+U0,key,time travellers,时空穿梭者
+U0,key,cross that line,跨过那条线
+U0,key,patient,患者，有耐心的
+U0,key,past,过去，过去的
+U0,key,present,现在，礼物
+U0,key,future,未来
+U0,key,go through,穿过
+U0,key,follow,跟随
+U0,key,never,从不
+U0,key,normal,常态，正常的
+U0,key,special,特别的，特殊的
+U0,key,goalkeeper,守门员
+U0,key,project,项目
+U0,key,one spoon of,一勺的
+U0,key,two spoons of,两勺的
+U0,key,impressed,印象深刻的
+U0,key,brick,砖头
+U0,key,amazing/fantastic,很棒的
+U0,key,add,添加，加入
+U0,key,pour,倾倒，倒出
+U0,key,knock over,打翻
+U0,key,mix,混合
+U0,key,suddenly,突然地
+U0,key,point,指着
+U0,key,strange,奇怪的
+U0,key,glowing,发光的
+U0,key,walk towards,走向
+U0,key,flash,一闪
