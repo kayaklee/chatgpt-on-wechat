@@ -1,3 +1,675 @@
+U6L3,key,town planning,城镇规划
+U6L3,key,town planner,城镇规划者
+U6L3,key,well planned,计划周全
+U6L3,key,imagine,想象
+U6L3,key,flat,公寓
+U6L3,key,blocks of flats,公寓群
+U6L3,key,system,系统
+U6L3,key,park,泊车；公园
+U6L3,key,car park,停车场
+U6L3,key,part,部分
+U6L3,key,adult,成年人
+U6L3,key,kind of,种类；类型
+U6L3,key,important,重要的
+U6L3,key,location,地点
+U6L3,key,transport,交通；运输
+U6L3,key,change,改变
+U6L3,key,improve,提高；进步
+U6L3,key,item,东西；物品
+U6L3,key,leaflet,宣传单
+U6L3,key,advice,建议
+U6L3,key,give advice,给建议
+U6L3,key,rule,规则；规定
+U6L3,key,trainer/coach,教练
+U6L3,key,practice,练习
+U6L3,key,sports hall,体育馆
+U6L3,key,training,训练
+U6L3,key,mistakes,错误
+U6L3,key,fair,公平的
+U6L3,key,unfair,不公平的
+U6L2,key,lost,丢失的；迷路的
+U6L2,key,guidebook,旅行手册
+U6L2,key,tour guide,导游
+U6L2,key,tourist office,游客接待室
+U6L2,key,sightseeing,观光
+U6L2,key,sights,景点
+U6L2,key,underground,地下铁
+U6L2,key,push,推
+U6L2,key,through,穿过
+U6L2,key,crowd,人群
+U6L2,key,mosque,清真寺
+U6L2,key,tile,瓷砖
+U6L2,key,spice market,香料市场
+U6L2,key,voice,声音
+U6L2,key,friendly,友好的
+U6L2,key,probably,有可能
+U6L2,key,platform,站台
+U6L2,key,escalator,扶梯
+U6L2,key,wave goodbye,挥手告别
+U6L2,key,slowly,缓慢地
+U6L2,key,souvenir,纪念品
+U6L2,key,India,印度
+U6L2,key,Indonesia,印度尼西亚
+U6L2,key,Finland,芬兰
+U6L2,key,China,中国
+U6L2,key,Japan,日本
+U6L2,key,The USA,美国
+U6L2,key,Mexico,墨西哥
+U6L2,key,Germany,德国
+U6L2,key,Spain,西班牙
+U6L2,key,Nigeria,尼日利亚
+U6L2,key,South Africa,南非
+U6L2,key,Argentina,阿根廷
+U6L2,key,trainers,运动鞋
+U6L2,key,on the other side of the world,世界的另一端
+U6L2,key,completely,完全地
+U6L2,key,opposite,相反；对面
+U6L2,key,all the way,千里迢迢；一路上
+U6L2,key,subtitles,字幕
+U6L2,key,series,系列；连续剧
+U6L2,key,mile,英里；里程
+U6L2,key,cereal,谷物；早餐麦片
+U6L1,key,Istanbul,伊斯坦布尔
+U6L1,key,Turkey,土耳其
+U6L1,key,Turkish,土耳其人/土耳其语
+U6L1,key,continent,大洲
+U6L1,key,divide,分隔；划分
+U6L1,key,strait,海峡
+U6L1,key,tourist,游客
+U6L1,key,offer,提供
+U6L1,key,combination,结合
+U6L1,key,modern,现代的
+U6L1,key,tradition,传统
+U6L1,key,traditional,传统的
+U6L1,key,lifestyle,生活风格
+U6L1,key,fascinating,迷人的
+U6L1,key,be named...,被命名为...
+U6L1,key,capital,首都
+U6L1,key,culture,文化
+U6L1,key,flag,旗帜
+U6L1,key,sunglasses,太阳镜
+U6L1,key,earrings,耳环
+U6L1,key,carpet,地毯
+U6L1,key,basket,篮子
+U6L1,key,rings,戒指
+U6L1,key,cup and saucer,杯子和杯垫
+U6L1,key,cushion,抱枕
+U6L1,key,plate,盘子
+U6L1,key,soap,肥皂
+U6L1,key,comb,梳子
+U6L1,key,present,礼物；现在
+U6L1,key,bet,打赌；赌注
+U6L1,key,comfortable,舒服
+U6L1,key,address,地址
+U6L1,key,huge,巨大
+U6L1,key,definitely,绝对地
+U6L1,key,brilliant,棒极了
+U6L1,key,prefer,倾向于；更喜欢...
+U6L1,key,price,价格
+U6L1,key,mind,介意；大脑
+U6L1,key,stamps,邮票
+U6L1,key,postcard,明信片
+U6L1,key,not at all,一点也不
+U5L3,key,gold,金子
+U5L3,key,snacks,零食
+U5L3,key,native,本土的；土著的
+U5L3,key,precious,珍贵的
+U5L3,key,nugget,小块
+U5L3,key,mine,矿
+U5L3,key,special,特别的；特殊的
+U5L3,key,dig,挖
+U5L3,key,dig out,挖出来
+U5L3,key,rare,稀少的；稀有的
+U5L3,key,produce,生产（动词）
+U5L3,key,production,生产（名词）
+U5L3,key,made into,把…制成…
+U5L3,key,jewellery,珠宝
+U5L3,key,electronics,电子零件
+U5L3,key,conduct,传导
+U5L3,key,electricity,电
+U5L3,key,machine,机器
+U5L3,key,foam,泡沫塑料
+U5L3,key,tape,胶带
+U5L3,key,handle,手柄
+U5L3,key,paintbrush,油漆刷
+U5L3,key,craft glue,白胶
+U5L3,key,pipe cleaner,毛条；吸管刷
+U5L3,key,trophy,奖杯
+U5L3,key,cover,覆盖
+U5L3,key,wrap,包；裹
+U5L3,key,insert,插入
+U5L3,key,stick,粘
+U5L3,key,speech,演讲
+U5L3,key,wanted,通缉令
+U5L3,key,coyote,丛林狼；偷渡者
+U5L3,key,reward,奖励
+U5L3,key,tips,小贴士；小窍门
+U5L3,key,be afraid of…,对...感到害怕
+U5L3,key,bend,弯曲
+U5L3,key,bend down,弯腰；蹲下
+U5L2,key,rob,抢劫（动词）
+U5L2,key,robber,抢劫犯
+U5L2,key,robbery,抢劫（名词）
+U5L2,key,tie,系
+U5L2,key,brave,勇敢的
+U5L2,key,nice try,做得不错
+U5L2,key,fence,栅栏
+U5L2,key,strap,带子
+U5L2,key,trick,伎俩；把戏
+U5L2,key,courageous,勇敢的
+U5L2,key,silly,愚蠢的；笨的
+U5L2,key,webpage,网页
+U5L2,key,teepee,尖顶帐篷
+U5L2,key,typical,典型的
+U5L2,key,tent,帐篷
+U5L2,key,tribe,部落
+U5L2,key,bison,野牛
+U5L2,key,modern,现代的
+U5L2,key,Indian,印度人；印度的
+U5L2,key,American Indians,美国印第安人
+U5L2,key,reservations,保留地
+U5L2,key,area,区域
+U5L2,key,land,土地
+U5L2,key,Europeans,欧洲人；欧洲的
+U5L2,key,think,想；以为（原型）
+U5L2,key,thought,想；以为（过去式）
+U5L2,key,millions of,几百万；上千万
+U5L2,key,nature,自然
+U5L2,key,different from,跟…不一样
+U5L2,key,proud of,以...为骄傲
+U5L2,key,tradition,传统
+U5L2,key,traditional,传统的
+U5L2,key,be famous for,因为...而出名
+U5L2,key,original,最初的，原始的
+U5L2,key,feature,特征
+U5L1,key,wild,野的
+U5L1,key,describe,形容
+U5L1,key,century,世纪
+U5L1,key,travel across,跨过
+U5L1,key,discover,发现
+U5L1,key,cowboys,牛仔
+U5L1,key,jail/prison,监狱
+U5L1,key,sheriff,警长
+U5L1,key,robbers,强盗
+U5L1,key,wagon,大篷车
+U5L1,key,handcuffs,手铐
+U5L1,key,barrel,木桶
+U5L1,key,pistol,手枪
+U5L1,key,saddle,马鞍
+U5L1,key,rope,绳子
+U5L1,key,badge,警徽；警章
+U5L1,key,holster,手枪皮套
+U5L1,key,wood,木质
+U5L1,key,metal,金属
+U5L1,key,cotton,棉质
+U5L1,key,leather,皮质
+U5L1,key,plastic,塑料
+U5L1,key,wool,毛线；羊毛
+U5L1,key,arrest,逮捕
+U5L1,key,be made of,用...做的
+U5L1,key,be used for,用来...的
+U5L1,key,objecti,物体
+U5L1,key,silver,银的；银子
+U5L1,key,mean,过分的；刻薄
+U5L1,key,stagecoach,公共马车
+U5L1,key,dressed in,穿着…
+U5L1,key,grab,抓住
+U5L1,key,behind bars,蹲监狱
+U5L1,key,safe,安全
+U5L1,key,settler,居民
+U5L1,key,country music,乡村音乐
+U5L1,key,western music,西方音乐
+U5L1,key,as well,也
+U5L1,key,scarf,围巾
+U5L1,key,scarves,围巾（复数）
+U4L3,key,health,健康
+U4L3,key,healthy,健康的
+U4L3,key,alive,活着
+U4L3,key,fit,健壮的；合适的
+U4L3,key,energy,能量
+U4L3,key,bone,骨头
+U4L3,key,muscle,肌肉
+U4L3,key,repair,修复
+U4L3,key,damage,损伤；损害
+U4L3,key,grains,谷物
+U4L3,key,dairy products,乳制品
+U4L3,key,proteins,蛋白质
+U4L3,key,sugars,糖类
+U4L3,key,digest,消化（动词）
+U4L3,key,digestion,消化（名词）
+U4L3,key,turkey,火鸡
+U4L3,key,yogurt,酸奶
+U4L3,key,wheat,小麦
+U4L3,key,menu,菜单
+U4L3,key,order,点菜；命令
+U4L3,key,suggest,建议（动词）
+U4L3,key,suggestion,建议（名词）
+U4L3,key,dialogue,对话
+U4L3,key,recipe,菜谱
+U4L3,key,ingredient,食材
+U4L3,key,tbsp.= tablespoon,餐匙
+U4L3,key,cinnamon,肉桂
+U4L3,key,vanilla,香草
+U4L3,key,peel,削皮；果皮
+U4L3,key,throw away,把...扔掉
+U4L3,key,core,果核
+U4L3,key,blend,搅拌
+U4L3,key,blender,搅拌机
+U4L3,key,mix,混合
+U4L3,key,mixture,混合物
+U4L3,key,smooth,顺滑
+U4L3,key,pour,倒
+U4L3,key,stir,搅拌
+U4L3,key,cut,切
+U4L3,key,serving bowl,盛菜的碗碟
+U4L3,key,adult,成年人
+U4L3,key,a little bit,一点点的
+U4L3,key,a tablespoon of,一餐匙的
+U4L3,key,a cup of,一杯的
+U4L3,key,half a litre of,半升的
+U4L3,key,half a kilo of,半公斤的；一斤的
+U4L2,key,three course,三道菜
+U4L2,key,starter,前餐
+U4L2,key,main course,主餐
+U4L2,key,dessert,甜品
+U4L2,key,roll away,滚走了
+U4L2,key,fishy,鱼腥味的
+U4L2,key,peppery,胡椒味的
+U4L2,key,pot,锅
+U4L2,key,lid,盖子
+U4L2,key,steam,蒸汽
+U4L2,key,appear,出现
+U4L2,key,disappear,消失
+U4L2,key,spaceship,宇宙飞船
+U4L2,key,sail,航行；船帆
+U4L2,key,land,降落；土地
+U4L2,key,burning,燃烧的
+U4L2,key,blow-blew,吹和过去式
+U4L2,key,blow out,吹灭
+U4L2,key,bill,账单
+U4L2,key,scratch,抓；挠
+U4L2,key,nod,点头
+U4L2,key,crazy about,热衷；着迷于
+U4L2,key,hero,英雄
+U4L2,key,invent,发明
+U4L2,key,inventor,发明家
+U4L2,key,invention,发明物
+U4L2,key,chewing gum,口香糖
+U4L2,key,complete,完整的
+U4L2,key,melt,融化
+U4L2,key,wallpaper,墙纸
+U4L2,key,lick,舔
+U4L2,key,invisible,隐形的
+U4L2,key,sugar coated,糖衣
+U4L2,key,fudge,奶油软糖
+U4L2,key,explode,爆炸
+U4L2,key,bully,霸凌者
+U4L2,key,straw,习惯
+U4L2,key,scoop,球形勺
+U4L2,key,sauce,酱
+U4L2,key,jelly,果冻
+U4L2,key,blades,叶片；刀刃
+U4L2,key,mix,混合
+U4L2,key,stir,搅拌
+U4L1,key,space,空间；太空
+U4L1,key,restaurant,餐厅
+U4L1,key,waiter,服务员
+U4L1,key,waitress,女服务员
+U4L1,key,biscuits,饼干
+U4L1,key,salt,盐
+U4L1,key,pepper,胡椒
+U4L1,key,napkin,餐布
+U4L1,key,chopsticks,筷子
+U4L1,key,fork,叉子
+U4L1,key,spoon,勺子
+U4L1,key,knife,刀子
+U4L1,key,pill,药丸
+U4L1,key,machine,机器
+U4L1,key,forwards,往前
+U4L1,key,backwards,往后
+U4L1,key,serve,为…服务
+U4L1,key,meal,餐
+U4L1,key,edge,边缘
+U4L1,key,universe,宇宙
+U4L1,key,no way,没戏；不可能
+U4L1,key,day,星期
+U4L1,key,date,日期
+U4L1,key,first 1st,1号;第一
+U4L1,key,second 2nd,2号;第二
+U4L1,key,third 3rd,3号;第三
+U4L1,key,fourth 4th,4号;第四
+U4L1,key,fifth 5th,5号;第五
+U4L1,key,eighth 8th,8号;第八
+U4L1,key,ninth 9th,9号;第九
+U4L1,key,twentieth 20th,20号;第二十
+U4L1,key,twenty-first 21st,21号;第二十一
+U4L1,key,thirtieth 30th,30号;第三十
+U4L1,key,thirty-second 32nd,32号;第三十二
+U4L1,key,fortieth 40th,40号;第四十
+U4L1,key,forty-third 43rd,43号;第四十三
+U4L1,key,brilliant/excellent,绝佳的；极好的
+U4L1,key,laboratory,实验室
+U4L1,key,professor,教授
+U4L1,key,broccoli,西蓝花
+U4L1,key,pour,倒
+U4L1,key,freezer,冰柜；冷冻库
+U3L3,key,rhythm,节奏
+U3L3,key,bounce,回弹
+U3L3,key,sound,声音
+U3L3,key,silence,寂静；无声
+U3L3,key,repeat,重复
+U3L3,key,pattern,规律；图案
+U3L3,key,crotchets,四分音符；一拍
+U3L3,key,quavers,八分音符；半拍
+U3L3,key,beat,节拍
+U3L3,key,length,长度
+U3L3,key,composer,作曲家
+U3L3,key,concentrate,集中注意力
+U3L3,key,remember,记住
+U3L3,key,download,下载
+U3L3,key,compete,竞争（动词）
+U3L3,key,competition,竞赛；比赛（名词）
+U3L3,key,top 10 hit,排名前十金曲
+U3L3,key,home for animals,动物救助之家
+U3L3,key,text,文本
+U3L3,key,diary,日记
+U3L3,key,findings,发现
+U3L3,key,paragraph,段落
+U3L3,key,first,首先
+U3L3,key,then,然后
+U3L3,key,finally,最后
+U3L3,key,huge,巨大的
+U3L3,key,stadium,体育场
+U3L3,key,change,改变；变化
+U3L3,key,ghost,幽灵
+U3L3,key,town hall,市政大厅
+U3L3,key,straight away,马上
+U3L3,key,tips,技巧；秘诀
+U3L2,key,confused,困惑的
+U3L2,key,never mind,没关系；不要紧
+U3L2,key,invite,邀请（动词）
+U3L2,key,invitation,邀请（名词）
+U3L2,key,dressing room,更衣室；化妆间
+U3L2,key,being,作为
+U3L2,key,as...as,像…一样..
+U3L2,key,theatre,剧场
+U3L2,key,wig,假发
+U3L2,key,scream,尖叫
+U3L2,key,towards,冲着；朝向
+U3L2,key,suddenly,突然地
+U3L2,key,amazed,感到惊讶
+U3L2,key,a bit of,一点
+U3L2,key,peace and quiet,安宁
+U3L2,key,drive away,驶远了
+U3L2,key,front door,前门
+U3L2,key,back door,后门
+U3L2,key,hotel,酒店
+U3L2,key,milkshake,奶昔
+U3L2,key,notice,注意到
+U3L2,key,familiar,熟悉的
+U3L2,key,slowly,缓慢地
+U3L2,key,spaghetti,意大利面
+U3L2,key,jukebox,投币式点唱机
+U3L2,key,influence,影响
+U3L2,key,fashion,时尚
+U3L2,key,fifties,五十年代
+U3L2,key,poster,海报
+U3L2,key,dream come true,梦想成真
+U3L2,key,arrange,安排
+U3L2,key,contract,合同；合约
+U3L2,key,well-dressed,衣装得体的
+U3L2,key,introduce,介绍
+U3L2,key,record producer,唱片制作人
+U3L2,key,too...to…,太…而不能
+U3L2,key,noise,噪音
+U3L2,key,make it happen,让它成真
+U3L2,key,advert,广告
+U3L1,key,rock 'n' rol,摇滚
+U3L1,key,superstar,超级明星
+U3L1,key,spotlight,聚光灯
+U3L1,key,bodyguards,保镖
+U3L1,key,fans,粉丝
+U3L1,key,electric guitar,电吉他
+U3L1,key,bass guitar,贝斯
+U3L1,key,backing singers,助唱；和声
+U3L1,key,dancer,舞者
+U3L1,key,drum kit,架子鼓
+U3L1,key,stage,舞台
+U3L1,key,become,变成
+U3L1,key,popular,受欢迎的
+U3L1,key,more than,超过，多过
+U3L1,key,hits,畅销歌曲
+U3L1,key,interview,采访
+U3L1,key,interviewer,采访者
+U3L1,key,record,录音，唱片
+U3L1,key,concerts,演唱会
+U3L1,key,tour,巡演
+U3L1,key,album,专辑
+U3L1,key,shiny,闪闪发光的
+U3L1,key,fast car,跑车
+U3L1,key,teenagers,青少年
+U3L1,key,alarm clock,闹钟
+U3L1,key,bacon,培根
+U3L1,key,toast,烤面包片
+U3L1,key,perfect,完美
+U3L1,key,gym,健身房
+U3L1,key,hairdresser,理发师
+U3L1,key,midnight,午夜
+U2L3,key,lungs,肺
+U2L3,key,planet,星球
+U2L3,key,produce,产生
+U2L3,key,oxygen,氧气
+U2L3,key,store,保存
+U2L3,key,in the form of,以...的形式
+U2L3,key,die from hunger,饿死
+U2L3,key,be home to,是...的家园
+U2L3,key,wildlife,野生动物
+U2L3,key,logging,伐木
+U2L3,key,wood,木头
+U2L3,key,expensive,贵；高价
+U2L3,key,quality,质量
+U2L3,key,farming,农耕
+U2L3,key,create,创造
+U2L3,key,space,空间
+U2L3,key,continent,大洲
+U2L3,key,Asia,亚洲
+U2L3,key,Europe,欧洲
+U2L3,key,Africa,非洲
+U2L3,key,South America,南美
+U2L3,key,North America,北美
+U2L3,key,Australasia,澳大拉西亚
+U2L3,key,Antarctica,南极
+U2L3,key,fascinating,引人入迷的
+U2L3,key,customer,顾客
+U2L3,key,owner,店主
+U2L3,key,exotic pet,异宠
+U2L3,key,cost,花费
+U2L3,key,depend,取决于
+U2L3,key,size,尺寸
+U2L3,key,describe,描述（动词）
+U2L3,key,description,描述（名词）
+U2L3,key,traffic,交通
+U2L3,key,lovely,可爱的，极好的
+U2L2,key,present,礼物；现在
+U2L2,key,way out,出口
+U2L2,key,walk along,沿着...走
+U2L2,key,to their surprise,让他们惊讶的是
+U2L2,key,terrible,可怕的
+U2L2,key,scary,吓人的
+U2L2,key,carry on,继续
+U2L2,key,whisper,私语；悄悄话
+U2L2,key,spear,长矛
+U2L2,key,chest,胸口；木箱
+U2L2,key,huts,木屋
+U2L2,key,village,村子
+U2L2,key,appear,出现
+U2L2,key,disappear,消失
+U2L2,key,chief,首领
+U2L2,key,penknife / jackknife,袖珍折刀
+U2L2,key,nearby,附近
+U2L2,key,swing,摇荡；摆动
+U2L2,key,through,穿过；越过
+U2L2,key,grab,抓住
+U2L2,key,killer,杀手
+U2L2,key,creature,生物
+U2L2,key,goliath,巨大的
+U2L2,key,deadly,致命的
+U2L2,key,lay eggs,产卵
+U2L2,key,warning,警告
+U2L2,key,aggressive,有攻击性的
+U2L2,key,poisonous,有毒的
+U2L2,key,male,雄性
+U2L2,key,female,雌性
+U2L2,key,despite,尽管；然而
+U2L2,key,be leen on,对...感兴趣
+U2L2,key,fully grown,完全成年的
+U2L2,key,live for,能活…
+U2L2,key,stay away from,远离
+U2L2,key,pilot,飞行员
+U2L2,key,jungle,丛林
+U2L2,key,tribe,部落
+U2L2,key,protect,保护（动词）
+U2L2,key,protection,保护（名词）
+U2L2,key,contact,联系
+U2L2,key,have contact with,跟...有联系
+U2L2,key,modern,现代的，现代
+U2L2,key,invent,发明（动词）
+U2L2,key,invention,发明（名词）
+U2L2,key,electricity,电
+U2L2,key,in danger,危险之中
+U2L2,key,disease / illness,疾病
+U2L2,key,against,对抗，抵御
+U2L2,key,common,常见的
+U2L1,key,Amazon,亚马逊
+U2L1,key,rainforest,雨林
+U2L1,key,tropical,热带的
+U2L1,key,creeper,匍匐植物
+U2L1,key,beak / bill,喙(拼音huì，鸟嘴)
+U2L1,key,toucan,巨嘴鸟
+U2L1,key,sloth,树懒
+U2L1,key,branch,树枝
+U2L1,key,anaconda,水蚺（拼音rán）
+U2L1,key,pool,水池
+U2L1,key,jaguar,美洲虎
+U2L1,key,anteater,食蚁兽
+U2L1,key,mammals,哺乳动物
+U2L1,key,reptiles,爬行动物
+U2L1,key,mosquitoes,蚊子
+U2L1,key,type / kind,种类
+U2L1,key,hundred,百
+U2L1,key,thousand,千
+U2L1,key,million,百万
+U2L1,key,billion,十亿
+U2L1,key,sleeves,袖子
+U2L1,key,trainers,运动鞋
+U2L1,key,provide,提供
+U2L1,key,tidy up,清理干净
+U2L1,key,look for,寻找
+U2L1,key,energy,能量
+U1L3,key,continent,大陆
+U1L3,key,active volcano,活火山
+U1L3,key,dormant volcano,休眠火山
+U1L3,key,extinct volcano,死火山
+U1L3,key,imagine,想象，设想
+U1L3,key,gas,气体
+U1L3,key,pressure,压力
+U1L3,key,come out,出来
+U1L3,key,surface,表面
+U1L3,key,magma,岩浆（内）
+U1L3,key,temperature,温度
+U1L3,key,form,形成
+U1L3,key,magma chamber,岩浆房
+U1L3,key,crater,火山口
+U1L3,key,ash clouds,火山灰云
+U1L3,key,lava,岩浆（外）
+U1L3,key,cardboard,硬纸板
+U1L3,key,upside down,上下颠倒
+U1L3,key,cone,圆锥
+U1L3,key,crumple,褶皱，弄皱
+U1L3,key,vinegar,醋
+U1L3,key,presentation,演讲
+U1L3,key,facts,事实
+U1L3,key,tips,小秘诀，小贴士
+U1L3,key,fill in a form,填表
+U1L3,key,profile,个人简介
+U1L3,key,last name / family name,姓氏
+U1L3,key,first name / given name,名字
+U1L3,key,nationality,国籍
+U1L3,key,sex/gender,性别
+U1L3,key,date of birth,出生年月日
+U1L3,key,place of birth,出生地
+U1L3,key,passport,护照
+U1L3,key,address,地址
+U1L3,key,email,邮件
+U1L2,key,narrow,狭窄的，时间不多的
+U1L2,key,escape,逃跑
+U1L2,key,stone,石头
+U1L2,key,stairs,阶梯
+U1L2,key,direction,方向
+U1L2,key,reach,到达
+U1L2,key,the top of the hill,山顶
+U1L2,key,breathing,呼吸
+U1L2,key,slow down,缓慢下来
+U1L2,key,erupt,爆发（动词）
+U1L2,key,eruption,爆发（名词）
+U1L2,key,certain,确定，确信
+U1L2,key,run away,逃跑
+U1L2,key,in danger,危险之中
+U1L2,key,suddenly,突然地
+U1L2,key,fill,充满
+U1L2,key,land,土地，降落
+U1L2,key,chance,机会
+U1L2,key,destroy,摧毁，毁灭
+U1L2,key,lava,岩浆
+U1L2,key,ash,灰，灰烬
+U1L2,key,cover,覆盖
+U1L2,key,almost,几乎
+U1L2,key,warn,警告
+U1L2,key,flood,洪水
+U1L2,key,hurricane,飓风
+U1L2,key,forest fire,山火
+U1L2,key,thunderstorm,雷雨
+U1L2,key,avalanche,雪崩
+U1L2,key,stop somebody from doing something,阻止某人做某事
+U1L2,key,cause,起因，引起
+U1L2,key,damage,损失，损害
+U1L2,key,the deadliest,最致命的
+U1L2,key,desperate,绝望的
+U1L2,key,The Red Cross,红十字会
+U1L2,key,organisation/organization,组织，机构
+U1L2,key,medical,医疗的
+U1L1,key,dissaster,灾难
+U1L1,key,natural,自然的
+U1L1,key,nature,自然
+U1L1,key,works of art,艺术品
+U1L1,key,smoke,烟
+U1L1,key,volcano,火山
+U1L1,key,temple,庙宇
+U1L1,key,columns,柱子
+U1L1,key,fountain,喷泉
+U1L1,key,theatre,剧院
+U1L1,key,horse and cart,马车
+U1L1,key,servant,仆人
+U1L1,key,statue,雕像
+U1L1,key,vase,花瓶
+U1L1,key,earthquake,地震
+U1L1,key,londoner,伦敦人
+U1L1,key,shake,摇晃
+U1L1,key,balcony,阳台
+U1L1,key,flat,公寓
+U1L1,key,neighbour,邻居
+U1L1,key,pretty,挺...的
+U1L1,key,take care,保重
+U1L1,key,forever,永远的
+U1L1,key,punk,朋克
+U1L1,key,fashion,时尚
+U1L1,key,scruffy,破烂的
+U1L1,key,torn,撕破的
+U1L1,key,pins,铆钉
+U1L1,key,naughty,淘气的
+U1L1,key,chase,追赶
+U1L1,key,destroy,摧毁，毁灭
+U1L1,key,alarm clock,闹钟
 U0,key,problem,问题
 U0,key,experiment,实验
 U0,key,shelf,架子

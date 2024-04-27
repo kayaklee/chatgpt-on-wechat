@@ -25,6 +25,73 @@ cell_height = eng_cell_height+cn_cell_height
 cell_width = (total_x_end-total_x_start)/cell_cnt_per_line
 lineN = int((total_y_start-total_y_end)/cell_height)
 
+##################################################
+
+def get_content_pos_of_cell(calc_num, output_width, output_height, calc_cnt_per_col, y_offset=0):
+    col = (int)(calc_num / calc_cnt_per_col)
+    row = calc_num % calc_cnt_per_col
+    cell_x = total_x_start + cell_width * col
+    cell_y = total_y_start - y_offset - output_height - output_height * row
+    print_x = cell_x + (cell_width/2 - output_width/2)
+    print_y = cell_y
+    #print("row={} col={} x={} y={}".format(row, col, print_x, print_y))
+    return print_x, print_y
+
+def DrawPDF_Calc(output_dir):
+    try:
+        time_string = time.strftime('%Y-%m-%dT%H:%M:%S', time.localtime())
+        output_file_path = output_dir + "/" + time_string + ".pdf"
+        c = canvas.Canvas(output_file_path, pagesize=A4)
+
+        #画竖线
+        c.setLineWidth(0.2)
+        hline_y_start = total_y_start
+        hline_y_end = total_y_end
+        hline_x = total_x_start + cell_width
+        c.line(hline_x, hline_y_start, hline_x, hline_y_end); hline_x += cell_width
+        c.line(hline_x, hline_y_start, hline_x, hline_y_end); hline_x += cell_width
+        c.line(hline_x, hline_y_start, hline_x, hline_y_end); hline_x += cell_width
+        c.line(hline_x, hline_y_start, hline_x, hline_y_end)
+
+        #打印计算式
+        font = 'SimSun'
+        size = 12
+        pdfmetrics.registerFont(TTFont(font, './SimSun.ttf'))
+        c.setFont(font, size)
+        font_height = pdfmetrics.getAscent(font, size) - pdfmetrics.getDescent(font, size)
+
+        calc = []
+        for i in range(100):
+            a = random.randint(1, 99)
+            b = random.randint(1, 99)
+            o = random.choice(["+", "-"])
+            r = a+b
+            if o == "-":
+                if a < b:
+                    t = a
+                    a = b
+                    b = t
+                r = a-b
+            calc.append(r)
+            content = "{} {} {} =    ".format(a, o, b)
+            content_width = pdfmetrics.stringWidth(content, fontName=font, fontSize=size)
+            x, y = get_content_pos_of_cell(i, content_width, font_height + 4*mm, calc_cnt_per_col=20) 
+            c.drawString(x, y+2*mm, content)
+
+        for i in range(50):
+            content = "{:<4} {:<4}  ".format(calc[i], calc[i + 10])
+            content_width = pdfmetrics.stringWidth(content, fontName=font, fontSize=size)
+            x, y = get_content_pos_of_cell(i, content_width, font_height + 4*mm, calc_cnt_per_col=10, y_offset=(font_height+4*mm)*20+10*mm) 
+            c.drawString(x, y+2*mm, content)
+
+        #Save PDF
+        c.save()
+        return None, output_file_path
+    except Exception as e:
+        return "exception: {} {}".format(e, traceback.format_exc()), None
+
+##################################################
+
 def get_cn_pos_of_cell(cell_num, output_width, output_height):
     row = (int)(cell_num / cell_cnt_per_line)
     col = cell_num % cell_cnt_per_line
@@ -34,7 +101,6 @@ def get_cn_pos_of_cell(cell_num, output_width, output_height):
     print_y = cell_y - (cell_height/2 - output_height/2)
     #print("row={} col={} x={} y={}".format(row, col, print_x, print_y))
     return print_x, print_y
-##################################################
 
 def DrawPDF(word_file, output_dir, spec_latest_unit, unit_filter = []):
     try:
@@ -139,5 +205,7 @@ def DrawPDF(word_file, output_dir, spec_latest_unit, unit_filter = []):
     except Exception as e:
         return "exception: {} {}".format(e, traceback.format_exc()), None
 
+e, output_file_path = DrawPDF_Calc("./")
+print(e)
 #output_file_path = DrawPDF("alvin_words", "./", False, ['U8L1', 'U7L1', 'U7L2'])
-#print("Output:{}".format(output_file_path))
+print("Output:{}".format(output_file_path))
