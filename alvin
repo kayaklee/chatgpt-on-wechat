@@ -1,3 +1,267 @@
+U8L3,key,fractions,分数
+U8L3,key,ticket,门票
+U8L3,key,adult,成年人
+U8L3,key,price,价钱
+U8L3,key,half price,半价
+U8L3,key,coin,硬币
+U8L3,key,a half,1月2日
+U8L3,key,a third,1月3日
+U8L3,key,a quarter,1月4日
+U8L3,key,a fifth,1月5日
+U8L3,key,a sixth,1月6日
+U8L3,key,a seventh,1月7日
+U8L3,key,an eighth,1月8日
+U8L3,key,a ninth,1月9日
+U8L3,key,a tenth,1月10日
+U8L3,key,two halves,2月2日
+U8L3,key,two thirds,2月3日
+U8L3,key,three quarters,3月4日
+U8L3,key,four fifths,4月5日
+U8L3,key,six sixths,6月6日
+U8L3,key,five sevenths,5月7日
+U8L3,key,four eighths,4月8日
+U8L3,key,seven ninths,7月9日
+U8L3,key,eight tenths,8月10日
+U8L3,key,nine and three quarters,9又3/4
+U8L3,key,tear,撕
+U8L3,key,piece,块
+U8L3,key,in order of,按...的顺序
+U8L3,key,spend,花费
+U8L3,key,gift shop,礼品店
+U8L3,key,pie chart,饼图
+U8L3,key,activity,活动(名词)
+U8L3,key,exhibition,展览
+U8L3,key,public transport,公共交通
+U8L3,key,queue,排队
+U8L3,key,national,国家的
+U8L3,key,national museum,国家博物馆
+U8L3,key,railway station,火车站
+U8L3,key,size,尺寸
+U8L3,key,opening times,开放时间
+U8L3,key,advert/advertisement,广告
+U8L3,key,fancy,华丽的
+U8L3,key,saxophone,萨克斯风
+U8L3,key,be in trouble,有麻烦了
+U8L3,key,book,预定
+U8L3,key,online,网上；在线
+U8L2,key,trouble,麻烦
+U8L2,key,sports cars,跑车
+U8L2,key,enter,进入
+U8L2,key,entrance,入口
+U8L2,key,sign,标记
+U8L2,key,robot,机器人
+U8L2,key,master,主人
+U8L2,key,whisper,小声说话；耳语
+U8L2,key,submarine,潜水艇
+U8L2,key,trap,陷阱
+U8L2,key,towards,向着；冲着
+U8L2,key,a box of tools,工具箱
+U8L2,key,set...free,让...重获自由
+U8L2,key,lock,上锁
+U8L2,key,take over,占领
+U8L2,key,destroy,毁坏
+U8L2,key,shut down,关机
+U8L2,key,charge,充电
+U8L2,key,battery,电池
+U8L2,key,chance,机会
+U8L2,key,model,模型
+U8L2,key,wax model,蜡像
+U8L2,key,include,包括；包含
+U8L2,key,switch on,打开
+U8L2,key,flame,火焰
+U8L2,key,unusual,不寻常的
+U8L2,key,involve,涉及
+U8L2,key,pet,宠物
+U8L2,key,detective,侦探
+U8L2,key,ostrich,鸵鸟
+U8L2,key,babysitter,保姆；阿姨
+U8L2,key,food tester,食物测评员
+U8L2,key,golf,高尔夫
+U8L2,key,golf ball,高尔夫球
+U8L2,key,diver,潜水员
+U8L2,key,firefighter,消防员
+U8L2,key,fire station,消防局
+U8L2,key,for a while,一段时间
+U8L2,key,circus,马戏团
+U8L2,key,sports teacher,体育教师
+U8L2,key,husband,丈夫
+U8L2,key,wife,妻子
+U8L2,key,complain,抱怨
+U8L2,key,each other,彼此
+U8L2,key,don't/doesn't mind,不介意
+U8L2,key,as...as,像…一样...
+U8L2,key,brave,勇敢
+U8L2,key,finally,最后
+U8L1,key,used to,曾经
+U8L1,key,be different from,跟…不一样
+U8L1,key,modern,现代的
+U8L1,key,visitor,参观者
+U8L1,key,future,未来
+U8L1,key,businessman,男商人
+U8L1,key,businesswoman,女商人
+U8L1,key,cleaner,清洁工
+U8L1,key,engineer,工程师
+U8L1,key,dentist,牙医
+U8L1,key,artist,艺术家
+U8L1,key,farmer,农民
+U8L1,key,mechanic,修理工；机械师
+U8L1,key,computer programmer,程序员
+U8L1,key,IT/information technology,信息科技
+U8L1,key,not...anymore,不再
+U8L1,key,exist,存在
+U8L1,key,without,没有
+U8L1,key,normal,正常的
+U8L1,key,advert,广告
+U8L1,key,definitely,绝对地
+U8L1,key,count,数数
+U8L1,key,revise,修改；复习(动词)
+U8L1,key,revision,修改；复习(名词)
+U8L1,key,dialogue,对话
+U8L1,key,what if,如果…怎么办?
+U7L3,key,poetry,诗歌
+U7L3,key,poem,诗
+U7L3,key,Poet,诗人
+U7L3,key,adventure,冒险
+U7L3,key,in the form of...,以...的形式
+U7L3,key,object,物品；物体
+U7L3,key,in fact,事实上
+U7L3,key,rhyme,押韵
+U7L3,key,cough,咳嗽
+U7L3,key,feathers,羽毛
+U7L3,key,fame,名气
+U7L3,key,bump into...,偶遇…；撞上…
+U7L3,key,spaghetti,意大利面
+U7L3,key,all over the place,到处都是
+U7L3,key,elbow,胳膊肘
+U7L3,key,carpet,地毯
+U7L3,key,hammock,吊床
+U7L3,key,wind,缠绕着(原型)
+U7L3,key,wound,缠绕着(过去式)
+U7L3,key,stairs,台阶
+U7L3,key,fill,填满
+U7L3,key,bathtub,浴缸
+U7L3,key,cover,覆盖
+U7L3,key,mad,疯狂的
+U7L3,key,mushy,糊状的
+U7L3,key,mess,一团糟
+U7L3,key,ruin,毁坏
+U7L3,key,terribly,非常地；特别地
+U7L3,key,bury,埋(原型)
+U7L3,key,buried,埋(过去式)
+U7L3,key,confetti,五彩纸屑
+U7L3,key,by heart,牢记于心
+U7L3,key,acrostic,离合诗；藏头诗
+U7L3,key,knight,骑士
+U7L3,key,fight,打架
+U7L3,key,different,不同的
+U7L3,key,difference,不同之处；差异
+U7L3,key,results,结果
+U7L3,key,biography,传记
+U7L3,key,autobiography,自传
+U7L3,key,consider,认为
+U7L3,key,however,然而
+U7L3,key,successful,成功的
+U7L3,key,company,公司
+U7L3,key,produce,生产；制作
+U7L3,key,act,表演
+U7L3,key,royal,皇家的；皇室的
+U7L3,key,support,支持
+U7L3,key,retire,退休
+U7L2,key,suddenly,突然地
+U7L2,key,stick,棍棒
+U7L2,key,edge,边缘
+U7L2,key,edge of the stage,舞台的边缘
+U7L2,key,close,靠近；关闭
+U7L2,key,towards,向着；冲着
+U7L2,key,trip,绊倒
+U7L2,key,loud,响亮的
+U7L2,key,crash,撞击
+U7L2,key,fall off,跌落
+U7L2,key,frightened,害怕的；受惊的
+U7L2,key,save,拯救；挽救
+U7L2,key,rewrite,重新写
+U7L2,key,ending,结尾
+U7L2,key,point at,指向…
+U7L2,key,leave...alone,别烦...(谁)
+U7L2,key,free,自由的；免费的
+U7L2,key,ticket,票
+U7L2,key,side,一边；一旁；一侧
+U7L2,key,the side of the stage,舞台的侧面
+U7L2,key,invite,邀请
+U7L2,key,roof,屋顶
+U7L2,key,globe theatre,环球剧院
+U7L2,key,fairy tales,童话故事
+U7L2,key,caterpillar,毛毛虫
+U7L2,key,collection,收集；作品集
+U7L2,key,translate,翻译
+U7L2,key,publish,出版
+U7L2,key,fall in love,陷入爱河
+U7L2,key,get married,结婚
+U7L2,key,in secret,秘密地
+U7L2,key,pretend,假装
+U7L2,key,avoid,避免
+U7L2,key,dead,死了
+U7L2,key,stable,马厩
+U7L2,key,servant,仆人
+U7L2,key,soup,汤
+U7L2,key,stranger,陌生人
+U7L2,key,lead,带领；牵引
+U7L2,key,steal,偷
+U7L2,key,stroke,抚摸
+U7L2,key,bark,犬吠
+U7L2,key,in turn,轮流地
+U7L2,key,smelly,气味大的；有味的
+U7L2,key,thief,小偷
+U7L2,key,overnight,过夜
+U7L1,key,Shakespeare,莎士比亚
+U7L1,key,famous,著名的
+U7L1,key,writer,作家
+U7L1,key,play,戏剧
+U7L1,key,poem,诗
+U7L1,key,theatre,剧院
+U7L1,key,in love,恋爱中
+U7L1,key,enemy,敌人
+U7L1,key,audience,观众
+U7L1,key,candles,蜡烛
+U7L1,key,mask,面具；口罩
+U7L1,key,lute,鲁特琴
+U7L1,key,actor,男演员
+U7L1,key,actress,女演员
+U7L1,key,wig,假发
+U7L1,key,costume,服装
+U7L1,key,tights,紧身裤袜
+U7L1,key,globe,地球；世界
+U7L1,key,necklace,项链
+U7L1,key,bracelet,手链
+U7L1,key,sword,剑
+U7L1,key,blonde,金色的
+U7L1,key,promise,承诺
+U7L1,key,offer,提议
+U7L1,key,comic,漫画
+U7L1,key,circus,马戏团
+U7L1,key,never,从不；永不
+U7L1,key,believe,相信
+U7L1,key,duet,双人对唱
+U7L1,key,romantic,浪漫的
+U7L1,key,ballad,情歌
+U7L1,key,present perfect,现在完成时
+U7L1,key,just,刚刚
+U7L1,key,read,read过去式
+U7L1,key,read,read过去分词
+U7L1,key,heard,hear过去式
+U7L1,key,heard,hear过去分词
+U7L1,key,cut,cut过去式
+U7L1,key,cut,cut过去分词
+U7L1,key,dropped,drop过去式
+U7L1,key,dropped,drop过去分词
+U7L1,key,got,get过去式
+U7L1,key,got,get过去分词
+U7L1,key,had,have/has过去式
+U7L1,key,had,have/has过去分词
+U7L1,key,cleaned,clean过去式
+U7L1,key,cleaned,clean过去分词
+U7L1,key,ate,eat过去式
+U7L1,key,eaten,eat过去分词
 U6L3,key,town planning,城镇规划
 U6L3,key,town planner,城镇规划者
 U6L3,key,well planned,计划周全
